@@ -1,0 +1,2112 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Humane - Charity WordPress Theme\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-02-20 02:34+0600\n"
+"PO-Revision-Date: 2018-02-20 02:34+0600\n"
+"Last-Translator: wpbean <imranmodel35@gmail.com>\n"
+"Language-Team: XooThemes <xoothemes00@gmail.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.1\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _x;_n;_e;__;esc_html__;esc_html_e;esc_attr__;"
+"esc_attr_e;esc_attr_x\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../404.php:16 ../inc/breadcrumbs.php:252 ../inc/xt-core-functions.php:768
+msgid "404 Not Found"
+msgstr ""
+
+#: ../404.php:20
+msgid ""
+"The page you are looking for no longer exists. Perhaps you can return\n"
+"\t\t\t\t\tback to the site's homepage and see if you can find what you are "
+"looking for. Or, you can try finding\n"
+"\t\t\t\t\tit with the information below."
+msgstr ""
+
+#: ../404.php:24
+msgid "Back to home"
+msgstr ""
+
+#: ../404.php:45
+msgid "Most Used Categories"
+msgstr ""
+
+#: ../admin/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../admin/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: ../admin/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: ../admin/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: ../admin/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../admin/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../admin/class-tgm-plugin-activation.php:393
+#: ../admin/class-tgm-plugin-activation.php:912
+#: ../admin/class-tgm-plugin-activation.php:2618
+#: ../admin/class-tgm-plugin-activation.php:3665
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: ../admin/class-tgm-plugin-activation.php:394
+#: ../admin/class-tgm-plugin-activation.php:3244
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../admin/class-tgm-plugin-activation.php:395
+#: ../admin/class-tgm-plugin-activation.php:3037
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#. translators: 1: plugin name.
+#: ../admin/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: ../admin/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#. translators: 1: dashboard link.
+#: ../admin/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../admin/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../admin/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: ../admin/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: ../admin/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: ../admin/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: ../admin/class-tgm-plugin-activation.php:1019
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: ../admin/class-tgm-plugin-activation.php:1019
+#: ../admin/class-tgm-plugin-activation.php:1022
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: ../admin/class-tgm-plugin-activation.php:1022
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#. translators: %s: version number
+#: ../admin/class-tgm-plugin-activation.php:2067
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: ../admin/class-tgm-plugin-activation.php:2358
+msgid "Required"
+msgstr ""
+
+#: ../admin/class-tgm-plugin-activation.php:2361
+msgid "Recommended"
+msgstr ""
+
+#: ../admin/class-tgm-plugin-activation.php:2377
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../admin/class-tgm-plugin-activation.php:2380
+msgid "External Source"
+msgstr ""
+
+#: ../admin/class-tgm-plugin-activation.php:2383
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../admin/class-tgm-plugin-activation.php:2400
+msgid "Not Installed"
+msgstr ""
+
+#: ../admin/class-tgm-plugin-activation.php:2404
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../admin/class-tgm-plugin-activation.php:2406
+msgid "Active"
+msgstr ""
+
+#: ../admin/class-tgm-plugin-activation.php:2412
+msgid "Required Update not Available"
+msgstr ""
+
+#: ../admin/class-tgm-plugin-activation.php:2415
+msgid "Requires Update"
+msgstr ""
+
+#: ../admin/class-tgm-plugin-activation.php:2418
+msgid "Update recommended"
+msgstr ""
+
+#. translators: 1: install status, 2: update status
+#: ../admin/class-tgm-plugin-activation.php:2427
+#, php-format
+msgid "%1$s, %2$s"
+msgstr ""
+
+#. translators: 1: number of plugins.
+#: ../admin/class-tgm-plugin-activation.php:2477
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#. translators: 1: number of plugins.
+#: ../admin/class-tgm-plugin-activation.php:2481
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#. translators: 1: number of plugins.
+#: ../admin/class-tgm-plugin-activation.php:2485
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: ../admin/class-tgm-plugin-activation.php:2575
+msgid "Installed version:"
+msgstr ""
+
+#: ../admin/class-tgm-plugin-activation.php:2583
+msgid "Minimum required version:"
+msgstr ""
+
+#: ../admin/class-tgm-plugin-activation.php:2595
+msgid "Available version:"
+msgstr ""
+
+#: ../admin/class-tgm-plugin-activation.php:2618
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: ../admin/class-tgm-plugin-activation.php:2632
+msgid "Plugin"
+msgstr ""
+
+#: ../admin/class-tgm-plugin-activation.php:2633
+msgid "Source"
+msgstr ""
+
+#: ../admin/class-tgm-plugin-activation.php:2634
+msgid "Type"
+msgstr ""
+
+#: ../admin/class-tgm-plugin-activation.php:2638
+msgid "Version"
+msgstr ""
+
+#: ../admin/class-tgm-plugin-activation.php:2639
+msgid "Status"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: ../admin/class-tgm-plugin-activation.php:2688
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: ../admin/class-tgm-plugin-activation.php:2693
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: ../admin/class-tgm-plugin-activation.php:2699
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: ../admin/class-tgm-plugin-activation.php:2769
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: ../admin/class-tgm-plugin-activation.php:2802
+msgid "Install"
+msgstr ""
+
+#: ../admin/class-tgm-plugin-activation.php:2808
+#: ../charitable/shortcodes/profile.php:55
+msgid "Update"
+msgstr ""
+
+#: ../admin/class-tgm-plugin-activation.php:2811
+msgid "Activate"
+msgstr ""
+
+#: ../admin/class-tgm-plugin-activation.php:2842
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: ../admin/class-tgm-plugin-activation.php:2844
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: ../admin/class-tgm-plugin-activation.php:2885
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: ../admin/class-tgm-plugin-activation.php:2887
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: ../admin/class-tgm-plugin-activation.php:2993
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: ../admin/class-tgm-plugin-activation.php:3019
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: ../admin/class-tgm-plugin-activation.php:3243
+msgid "Plugin activation failed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: ../admin/class-tgm-plugin-activation.php:3583
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. translators: 1: plugin name, 2: error message.
+#: ../admin/class-tgm-plugin-activation.php:3586
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: ../admin/class-tgm-plugin-activation.php:3588
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../admin/class-tgm-plugin-activation.php:3592
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: ../admin/class-tgm-plugin-activation.php:3594
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../admin/class-tgm-plugin-activation.php:3594
+#: ../admin/class-tgm-plugin-activation.php:3602
+msgid "Show Details"
+msgstr ""
+
+#: ../admin/class-tgm-plugin-activation.php:3594
+#: ../admin/class-tgm-plugin-activation.php:3602
+msgid "Hide Details"
+msgstr ""
+
+#: ../admin/class-tgm-plugin-activation.php:3595
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: ../admin/class-tgm-plugin-activation.php:3597
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../admin/class-tgm-plugin-activation.php:3600
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: ../admin/class-tgm-plugin-activation.php:3602
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: ../admin/class-tgm-plugin-activation.php:3603
+msgid "All installations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: ../admin/class-tgm-plugin-activation.php:3605
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../admin/codestar-framework/classes/framework.class.php:175
+msgid "Success. Imported backup options."
+msgstr ""
+
+#: ../admin/codestar-framework/classes/framework.class.php:180
+msgid "Default options restored."
+msgstr ""
+
+#: ../admin/codestar-framework/classes/framework.class.php:199
+msgid "Default options restored for only this section."
+msgstr ""
+
+#: ../admin/codestar-framework/classes/framework.class.php:365
+msgid "Settings saved."
+msgstr ""
+
+#: ../admin/codestar-framework/classes/framework.class.php:367
+msgid "Save"
+msgstr ""
+
+#: ../admin/codestar-framework/classes/framework.class.php:367
+msgid "Saving..."
+msgstr ""
+
+#: ../admin/codestar-framework/classes/framework.class.php:368
+msgid "Restore"
+msgstr ""
+
+#: ../admin/codestar-framework/classes/framework.class.php:371
+#: ../admin/codestar-framework/fields/backup/backup.php:29
+msgid "Reset All Options"
+msgstr ""
+
+#: ../admin/codestar-framework/classes/framework.class.php:375
+msgid "show all options"
+msgstr ""
+
+#: ../admin/codestar-framework/classes/options.class.php:125
+msgid "CONFIG"
+msgstr ""
+
+#: ../admin/codestar-framework/classes/options.class.php:131
+#: ../admin/codestar-framework/classes/options.class.php:151
+msgid "USAGE"
+msgstr ""
+
+#: ../admin/codestar-framework/classes/options.class.php:137
+msgid "VALUE"
+msgstr ""
+
+#: ../admin/codestar-framework/classes/options.class.php:155
+#: ../inc/give/give-widgets.php:99
+msgid "ID"
+msgstr ""
+
+#: ../admin/codestar-framework/classes/options.class.php:227
+#, php-format
+msgid "You are editing language: ( <strong>%s</strong> )"
+msgstr ""
+
+#: ../admin/codestar-framework/classes/shortcode.class.php:82
+#: ../admin/codestar-framework/classes/shortcode.class.php:90
+#: ../admin/codestar-framework/fields/textarea/textarea.php:27
+msgid "Add Shortcode"
+msgstr ""
+
+#: ../admin/codestar-framework/classes/shortcode.class.php:92
+msgid "Select a shortcode"
+msgstr ""
+
+#: ../admin/codestar-framework/classes/shortcode.class.php:108
+msgid "Insert Shortcode"
+msgstr ""
+
+#: ../admin/codestar-framework/config/customize.config.php:15
+msgid "Header"
+msgstr ""
+
+#: ../admin/codestar-framework/config/customize.config.php:19
+msgid "Pre Header Bar Settings"
+msgstr ""
+
+#: ../admin/codestar-framework/config/customize.config.php:29
+msgid "Default #2a2f36."
+msgstr ""
+
+#: ../admin/codestar-framework/config/customize.config.php:30
+msgid "Pre Header top bar background color"
+msgstr ""
+
+#: ../admin/codestar-framework/config/customize.config.php:42
+#: ../admin/codestar-framework/config/customize.config.php:58
+msgid "Default 12 px."
+msgstr ""
+
+#: ../admin/codestar-framework/config/customize.config.php:43
+msgid "Pre header bar top space"
+msgstr ""
+
+#: ../admin/codestar-framework/config/customize.config.php:59
+msgid "Pre header bar bottom space"
+msgstr ""
+
+#: ../admin/codestar-framework/config/customize.config.php:70
+#: ../admin/codestar-framework/config/framework.config.php:239
+msgid "Header Settings"
+msgstr ""
+
+#: ../admin/codestar-framework/config/customize.config.php:79
+#: ../admin/codestar-framework/config/customize.config.php:94
+msgid "Default 30 px."
+msgstr ""
+
+#: ../admin/codestar-framework/config/customize.config.php:80
+msgid "Header top space"
+msgstr ""
+
+#: ../admin/codestar-framework/config/customize.config.php:95
+msgid "Header bottom space"
+msgstr ""
+
+#: ../admin/codestar-framework/config/customize.config.php:106
+msgid "Logo Settings"
+msgstr ""
+
+#: ../admin/codestar-framework/config/customize.config.php:115
+msgid "Default 45 px."
+msgstr ""
+
+#: ../admin/codestar-framework/config/customize.config.php:116
+msgid "Logo max height"
+msgstr ""
+
+#: ../admin/codestar-framework/config/customize.config.php:130
+msgid "Default 17 px."
+msgstr ""
+
+#: ../admin/codestar-framework/config/customize.config.php:131
+msgid "Logo top space"
+msgstr ""
+
+#: ../admin/codestar-framework/config/customize.config.php:145
+msgid "Default 0 px."
+msgstr ""
+
+#: ../admin/codestar-framework/config/customize.config.php:146
+msgid "Logo bottom space"
+msgstr ""
+
+#: ../admin/codestar-framework/config/customize.config.php:157
+msgid "Menu Settings"
+msgstr ""
+
+#: ../admin/codestar-framework/config/customize.config.php:166
+#: ../admin/codestar-framework/config/customize.config.php:181
+msgid "Default 15 px."
+msgstr ""
+
+#: ../admin/codestar-framework/config/customize.config.php:167
+msgid "Menu item left space"
+msgstr ""
+
+#: ../admin/codestar-framework/config/customize.config.php:182
+msgid "Menu item right space"
+msgstr ""
+
+#: ../admin/codestar-framework/config/customize.config.php:196
+msgid "Default 250 px."
+msgstr ""
+
+#: ../admin/codestar-framework/config/customize.config.php:197
+msgid "Dropdown menu minimum width."
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:8
+msgid "Theme Options"
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:13
+msgid "Humane "
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:30
+msgid "Pre Header Settings"
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:39
+msgid "Need pre header?"
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:40
+msgid "Enable or disable pre header bar. Default enable."
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:47
+msgid "Disable on mobile?"
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:48
+msgid "Enable or disable pre header bar on mobile devices."
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:54
+msgid "Header left content"
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:55
+msgid "Select a content type for header left."
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:57
+#: ../admin/codestar-framework/config/framework.config.php:109
+msgid "No Content"
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:58
+msgid "Informations"
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:59
+#: ../admin/codestar-framework/config/framework.config.php:111
+msgid "Menu"
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:66
+msgid "Header text"
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:67
+#: ../admin/codestar-framework/config/framework.config.php:75
+#: ../admin/codestar-framework/config/framework.config.php:83
+msgid "Will be shown in the header top bar."
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:68
+msgid "Have any question?"
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:74
+msgid "Phone number"
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:76
+msgid "123-456-7890"
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:82
+msgid "Email address"
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:84
+msgid "hello@humane.com"
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:90
+msgid "Header Left Menu"
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:91
+msgid "Select a menu for header left."
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:98
+msgid "Header Left Menu for Campaign Creator"
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:99
+msgid ""
+"Select a menu for header left. If campaign creator users login then this "
+"menu will be shown. User Role : campaign_creator"
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:106
+msgid "Header right content"
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:107
+msgid "Select a content type for header right."
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:110
+msgid "Plain Text"
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:112
+msgid "Social Icons"
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:113
+msgid "Selected Pages Link with condition"
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:120
+msgid "Header Right Text"
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:121
+msgid "Pre header right plain text."
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:127
+msgid "Header Right Menu"
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:128
+msgid "Select a menu for header right."
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:135
+msgid "Top Bar Right Social Icons"
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:136
+#: ../admin/codestar-framework/config/framework.config.php:183
+msgid "Add New"
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:137
+#: ../admin/codestar-framework/config/metabox.config.php:174
+msgid "Add New Social Network"
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:144
+#: ../admin/codestar-framework/config/metabox.config.php:179
+msgid "Select an Icon"
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:150
+#: ../admin/codestar-framework/config/metabox.config.php:184
+msgid "Social Network URL"
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:182
+msgid "Top Bar Right Conditional Pages"
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:184
+msgid "Add New Page"
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:191
+msgid "Select a Page"
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:197
+msgid "Show If"
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:199
+msgid "Show always"
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:200
+msgid "If logged in"
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:201
+msgid "If not logged in"
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:210
+msgid "Need button on pre header?"
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:211
+msgid "Enable or disable the button."
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:217
+msgid "Button Text"
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:218
+msgid "Pre header button text."
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:219
+#: ../admin/codestar-framework/config/metabox.config.php:108
+#: ../template-parts/content-give_forms.php:15
+msgid "Donate Now"
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:225
+msgid "Button URL"
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:226
+msgid "Pre header button URL."
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:227
+msgid "#"
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:247
+msgid "Header background color"
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:248
+msgid "Default #ffffff."
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:255
+msgid "Default menu settings"
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:260
+msgid "Menu color"
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:261
+msgid "Default #363636."
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:268
+msgid "Menu hover color"
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:269
+msgid "Default #fc2c62."
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:276
+msgid "Menu hover border"
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:278
+msgid "On menu hover show a border bellow the menu item. Default yes."
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:283
+msgid "Dropdown or megamenu settings"
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:288
+msgid "Dropdown Background Color"
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:289
+msgid "Dropdown or megamenu background color. Default #ffffff."
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:296
+msgid "Dropdown Color"
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:297
+msgid "Dropdown color. Default #363636."
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:304
+msgid "Dropdown Menu Hover Color"
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:305
+msgid "Dropdown menu hover color. Default #fc2c62."
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:312
+msgid "Dropdown Border Color"
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:313
+msgid "Dropdown menu border color. Default #eeeeee."
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:327
+msgid "Page Header Settings"
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:335
+msgid "Page Header Background"
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:336
+msgid "Page header background image."
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:337
+#: ../admin/codestar-framework/fields/image/image.php:22
+msgid "Add Image"
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:342
+msgid "Use Page Feature Image"
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:344
+msgid "If page, use page feature image as page background image. Default yes."
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:349
+msgid "Page header background color overlay"
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:357
+msgid "Padding Top"
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:358
+msgid "Page header padding top. Default 75px."
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:369
+msgid "Padding Bottom"
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:370
+msgid "Page header padding bottom. Default 75px."
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:380
+msgid "Show Breadcrumb"
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:381
+msgid "Show breadcrumb in page header. Default enable."
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:393
+msgid "Style Settings"
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:402
+msgid "Font size"
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:403
+msgid "Body font size. Default 16px."
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:414
+msgid "Line Height"
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:415
+msgid "Body line height. Default 26px."
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:425
+msgid "Body Background"
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:426
+msgid "Site body background color."
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:432
+msgid "Body color"
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:433
+msgid "Site body color."
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:439
+msgid "Color Customization"
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:444
+msgid "Need color customizer?"
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:450
+msgid "Theme Primary Color"
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:457
+msgid "Theme Primary Color Dark"
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:464
+msgid "Theme Primary Color Light"
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:478
+msgid "Blog Settings"
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:486
+msgid "Blog Feature Image Width"
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:487
+msgid ""
+"If you changed the image size, you have to regenerate thumbnails. You can "
+"use any regenerate thumbnails plugin for that."
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:494
+msgid "Blog Feature Image Height"
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:501
+msgid "Blog Layout"
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:502
+msgid ""
+"Choose a layout for your blog, It will also work on single, archive, search "
+"pages."
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:514
+msgid "Author Bio"
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:516
+msgid "Show author bio on single blog post. Default yes."
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:521
+msgid "Post Nav"
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:523
+msgid "Show next / prev nav on single blog post. Default yes."
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:537
+msgid "Donation Settings"
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:544
+#: ../admin/codestar-framework/config/framework.config.php:641
+msgid "Campaign Page Layout"
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:545
+#: ../admin/codestar-framework/config/framework.config.php:642
+msgid ""
+"Choose a layout for your shop page, It will also work on few others Campaign "
+"pages."
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:557
+msgid "Campaigns Page Text"
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:558
+#: ../inc/charitable-functions.php:281
+msgid "Campaigns"
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:563
+msgid "Donate Buttom Text"
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:564
+#: ../charitable/campaign-loop/donate-link.php:25
+#: ../charitable/campaign-loop/donate-modal.php:21
+#: ../charitable/campaign/donate-button.php:18
+#: ../charitable/campaign/donate-link.php:23
+#: ../charitable/campaign/donate-modal.php:18
+#: ../charitable/donation-form/form-donation.php:57
+msgid "Donate"
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:569
+msgid "Donate Buttom Text Expired"
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:570
+#: ../charitable/campaign-loop/more-link.php:21
+#: ../inc/charitable-functions.php:147
+#: ../template-parts/content-campaign.php:85
+msgid "Details"
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:575
+msgid "Single Campaign Page Setting"
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:580
+msgid "Show Campaign Donation Count"
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:581
+msgid ""
+"You can show or hide the campaign donation count on single campaign page "
+"bellow the title inside the donation stats."
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:587
+msgid "Show Campaign Location"
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:588
+msgid ""
+"You can show or hide the campaign location on single campaign page bellow "
+"the title inside the donation stats."
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:594
+msgid "Show Campaign Progress Bar"
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:595
+msgid ""
+"You can show or hide the campaign donation progress bar on single campaign "
+"page bellow the title."
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:601
+msgid "Show Campaign Updates"
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:602
+msgid ""
+"Campaign updates has a shortcode, you can use that to show the updates "
+"aywhere in the content area of campaign. If you enable this updates will be "
+"show bellow the content. [ Required charitable simple updates addon ]"
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:608
+msgid "Campaign Updates Title"
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:609
+msgid "Campaign Updates:"
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:615
+msgid "Campaign Video Width"
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:616
+msgid "Required charitable campaign video addon."
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:634
+msgid "Give Donation Settings"
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:654
+msgid "Form Archive Title"
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:655
+#: ../inc/give/give-functions.php:248
+msgid "Donation Forms"
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:673
+msgid "Events Settings"
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:680
+msgid "Events Page Layout"
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:681
+msgid ""
+"Choose a layout for your events page, It will also work on few others event "
+"pages."
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:704
+msgid "WooCommerce Settings"
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:711
+msgid "Shop Page Layout"
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:712
+msgid ""
+"Choose a layout for your shop page, It will also work on few others "
+"WooCommerce pages."
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:724
+msgid "Product Page Layout"
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:725
+msgid "Choose a layout for your product page."
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:737
+msgid "Shop number of products"
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:738
+msgid "Number of products to show on the shop page, default 9 products."
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:745
+msgid "Product column"
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:746
+msgid "Change number of products per row"
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:748
+msgid "1 column"
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:749
+msgid "2 columns"
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:750
+msgid "3 columns"
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:751
+msgid "4 columns"
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:752
+msgid "5 columns"
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:759
+msgid "Number of Related Products"
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:760
+msgid "Change number of products related products to show"
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:762
+msgid "1 Product"
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:763
+msgid "2 Products"
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:764
+msgid "3 Products"
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:765
+msgid "4 Products"
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:766
+msgid "5 Products"
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:767
+msgid "6 Products"
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:768
+msgid "7 Products"
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:775
+msgid "Need Image Zoom?"
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:776
+msgid "Enable or disable image zooming. Default enable."
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:782
+msgid "Need Image Lightbox?"
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:783
+msgid "Enable or disable image lightbox. Default enable."
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:789
+msgid "Need Image Gallery LightBox Slider?"
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:790
+msgid "Enable or disable image gallery lightbox slider. Default enable."
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:804
+msgid "Footer Settings"
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:812
+msgid "Footer"
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:818
+msgid "Footer top paddings"
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:829
+msgid "Footer bottom paddings"
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:839
+msgid "Footer Widgets Columns"
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:846
+msgid "Select an option"
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:851
+msgid "Footer Background Color"
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:857
+msgid "Footer widget Content Color"
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:863
+msgid "Footer widget Link Color"
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:869
+msgid "Footer Link Hover Color"
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:875
+msgid "Bottom Bar"
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:880
+msgid "Need Footer Bottom"
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:887
+msgid "Footer top & bottom paddings"
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:898
+msgid "Footer Text"
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:899
+msgid "&copy; Copyright Humane 2018"
+msgstr ""
+
+#: ../admin/codestar-framework/config/framework.config.php:909
+msgid "Footer Border Color"
+msgstr ""
+
+#: ../admin/codestar-framework/config/metabox.config.php:16
+msgid "Page Settings"
+msgstr ""
+
+#: ../admin/codestar-framework/config/metabox.config.php:29
+msgid "Page Layout"
+msgstr ""
+
+#: ../admin/codestar-framework/config/metabox.config.php:30
+msgid "Default box layout, You can also select full screen layout."
+msgstr ""
+
+#: ../admin/codestar-framework/config/metabox.config.php:40
+msgid "Need Page Title ?"
+msgstr ""
+
+#: ../admin/codestar-framework/config/metabox.config.php:41
+msgid "Page title settings avaiable on theme option."
+msgstr ""
+
+#: ../admin/codestar-framework/config/metabox.config.php:46
+msgid "Need Pre Header"
+msgstr ""
+
+#: ../admin/codestar-framework/config/metabox.config.php:48
+msgid "Pre header (Header top bar) can be enable or disable for this page."
+msgstr ""
+
+#: ../admin/codestar-framework/config/metabox.config.php:53
+msgid "Need Sidebar?"
+msgstr ""
+
+#: ../admin/codestar-framework/config/metabox.config.php:55
+msgid "Set off, if you don't need sidebar on this page."
+msgstr ""
+
+#: ../admin/codestar-framework/config/metabox.config.php:61
+msgid "Page Sidebar Position"
+msgstr ""
+
+#: ../admin/codestar-framework/config/metabox.config.php:62
+msgid "Options: Left, Right or No Sidebar."
+msgstr ""
+
+#: ../admin/codestar-framework/config/metabox.config.php:74
+msgid "Select a sidebar for this plage."
+msgstr ""
+
+#: ../admin/codestar-framework/config/metabox.config.php:75
+msgid "Go to theme option for generating new sidebars."
+msgstr ""
+
+#: ../admin/codestar-framework/config/metabox.config.php:93
+msgid "Slider Options"
+msgstr ""
+
+#: ../admin/codestar-framework/config/metabox.config.php:106
+msgid "Slider Button Text"
+msgstr ""
+
+#: ../admin/codestar-framework/config/metabox.config.php:107
+msgid "Add your slider button text"
+msgstr ""
+
+#: ../admin/codestar-framework/config/metabox.config.php:113
+msgid "Slider Button URL"
+msgstr ""
+
+#: ../admin/codestar-framework/config/metabox.config.php:114
+msgid "Add your slider button url"
+msgstr ""
+
+#: ../admin/codestar-framework/config/metabox.config.php:130
+msgid "Testimonial Options"
+msgstr ""
+
+#: ../admin/codestar-framework/config/metabox.config.php:143
+msgid "Client's Designation"
+msgstr ""
+
+#: ../admin/codestar-framework/config/metabox.config.php:144
+msgid "Add your client's designation"
+msgstr ""
+
+#: ../admin/codestar-framework/config/metabox.config.php:160
+msgid "Volanteer's Options"
+msgstr ""
+
+#: ../admin/codestar-framework/config/metabox.config.php:172
+msgid "Volanteer's Social Icons"
+msgstr ""
+
+#: ../admin/codestar-framework/config/metabox.config.php:173
+msgid "Add New Social Icon"
+msgstr ""
+
+#: ../admin/codestar-framework/config/metabox.config.php:205
+msgid "Volunteer's Designation"
+msgstr ""
+
+#: ../admin/codestar-framework/config/metabox.config.php:206
+msgid "Add your volunteer's designation"
+msgstr ""
+
+#: ../admin/codestar-framework/fields/background/background.php:34
+#: ../admin/codestar-framework/fields/background/background.php:35
+#: ../admin/codestar-framework/fields/upload/upload.php:23
+#: ../admin/codestar-framework/fields/upload/upload.php:24
+msgid "Upload"
+msgstr ""
+
+#: ../admin/codestar-framework/fields/background/background.php:36
+#: ../admin/codestar-framework/fields/upload/upload.php:25
+msgid "Use Image"
+msgstr ""
+
+#: ../admin/codestar-framework/fields/backup/backup.php:21
+msgid "Import a Backup"
+msgstr ""
+
+#: ../admin/codestar-framework/fields/backup/backup.php:22
+msgid "copy-paste your backup string here"
+msgstr ""
+
+#: ../admin/codestar-framework/fields/backup/backup.php:27
+msgid "Export and Download Backup"
+msgstr ""
+
+#: ../admin/codestar-framework/fields/backup/backup.php:28
+msgid "or"
+msgstr ""
+
+#: ../admin/codestar-framework/fields/backup/backup.php:30
+msgid "Please be sure for reset all of framework options."
+msgstr ""
+
+#: ../admin/codestar-framework/fields/gallery/gallery.php:21
+msgid "Add Gallery"
+msgstr ""
+
+#: ../admin/codestar-framework/fields/gallery/gallery.php:22
+msgid "Edit Gallery"
+msgstr ""
+
+#: ../admin/codestar-framework/fields/gallery/gallery.php:23
+msgid "Clear"
+msgstr ""
+
+#: ../admin/codestar-framework/fields/group/group.php:22
+msgid "Adding"
+msgstr ""
+
+#: ../admin/codestar-framework/fields/group/group.php:45
+#: ../admin/codestar-framework/fields/group/group.php:77
+msgid "Remove"
+msgstr ""
+
+#: ../admin/codestar-framework/fields/icon/icon.php:25
+#: ../admin/codestar-framework/functions/actions.php:82
+msgid "Add Icon"
+msgstr ""
+
+#: ../admin/codestar-framework/fields/icon/icon.php:26
+msgid "Remove Icon"
+msgstr ""
+
+#: ../admin/codestar-framework/fields/sorter/sorter.php:24
+msgid "Enabled Modules"
+msgstr ""
+
+#: ../admin/codestar-framework/fields/sorter/sorter.php:25
+msgid "Disabled Modules"
+msgstr ""
+
+#: ../admin/codestar-framework/fields/switcher/switcher.php:20
+msgid "on"
+msgstr ""
+
+#: ../admin/codestar-framework/fields/switcher/switcher.php:20
+msgid "off"
+msgstr ""
+
+#: ../admin/codestar-framework/fields/typography/typography.php:73
+msgid "Web Safe Fonts"
+msgstr ""
+
+#: ../admin/codestar-framework/fields/typography/typography.php:79
+msgid "Google Fonts"
+msgstr ""
+
+#: ../admin/codestar-framework/fields/typography/typography.php:107
+#: ../admin/codestar-framework/functions/actions.php:32
+msgid "Error! Can not load json file."
+msgstr ""
+
+#: ../admin/codestar-framework/functions/actions.php:83
+msgid "Search a Icon..."
+msgstr ""
+
+#: ../admin/codestar-framework/functions/actions.php:84
+msgid "Loading..."
+msgstr ""
+
+#: ../admin/codestar-framework/functions/helpers.php:49
+msgid "This field class is not available!"
+msgstr ""
+
+#: ../admin/codestar-framework/functions/validate.php:14
+msgid "Please write a valid email address!"
+msgstr ""
+
+#: ../admin/codestar-framework/functions/validate.php:33
+msgid "Please write a numeric data!"
+msgstr ""
+
+#: ../admin/codestar-framework/functions/validate.php:51
+msgid "Fatal Error! This field is required!"
+msgstr ""
+
+#: ../charitable/account/forgot-password.php:53
+#: ../charitable/account/reset-password.php:54
+#: ../charitable/shortcodes/reset-password.php:47
+msgid "Reset Password"
+msgstr ""
+
+#: ../charitable/campaign/donate-modal.php:17
+#, php-format
+msgid "Make a donation to %s"
+msgstr ""
+
+#: ../charitable/charitable-ambassadors/shortcodes/creator-donations.php:22
+#: ../charitable/charitable-ambassadors/shortcodes/my-campaigns.php:81
+msgid "You have not created any campaigns yet."
+msgstr ""
+
+#: ../charitable/charitable-ambassadors/shortcodes/creator-donations.php:42
+msgid "You have not received any donations yet."
+msgstr ""
+
+#: ../charitable/charitable-ambassadors/shortcodes/creator-donations.php:49
+#: ../charitable/shortcodes/my-donations.php:31
+#: ../inc/give/give-widgets.php:103
+msgid "Date"
+msgstr ""
+
+#: ../charitable/charitable-ambassadors/shortcodes/creator-donations.php:50
+msgid "Donor"
+msgstr ""
+
+#: ../charitable/charitable-ambassadors/shortcodes/creator-donations.php:51
+#: ../charitable/donation-receipt/details.php:25
+#: ../charitable/shortcodes/my-donations.php:32
+msgid "Campaign"
+msgstr ""
+
+#: ../charitable/charitable-ambassadors/shortcodes/creator-donations.php:52
+#: ../charitable/shortcodes/my-donations.php:33
+msgid "Amount"
+msgstr ""
+
+#: ../charitable/charitable-ambassadors/shortcodes/my-campaigns.php:87
+msgid "Create a new campaign"
+msgstr ""
+
+#: ../charitable/charitable-anonymous/doantion-form-field.php:20
+msgid "I would like to make my donation anonymously."
+msgstr ""
+
+#: ../charitable/donation-form/form-donation.php:59
+msgid "Loading&hellip;"
+msgstr ""
+
+#: ../charitable/donation-form/recurring-donation-amount.php:81
+msgid "Custom monthly amount"
+msgstr ""
+
+#: ../charitable/donation-form/recurring-donation-amount.php:93
+msgid "Enter monthly donation amount"
+msgstr ""
+
+#: ../charitable/donation-form/recurring-donation.php:35
+msgid "One Time Donation"
+msgstr ""
+
+#: ../charitable/donation-form/recurring-donation.php:41
+msgid "Monthly Donation"
+msgstr ""
+
+#: ../charitable/donation-receipt/details.php:21
+msgid "Your Donation"
+msgstr ""
+
+#: ../charitable/donation-receipt/details.php:26
+#: ../charitable/donation-receipt/details.php:48
+msgid "Total"
+msgstr ""
+
+#: ../charitable/donation-receipt/summary.php:22
+msgid "Donation Number:"
+msgstr ""
+
+#: ../charitable/donation-receipt/summary.php:24
+msgid "Date:"
+msgstr ""
+
+#: ../charitable/donation-receipt/summary.php:26
+msgid "Total:"
+msgstr ""
+
+#: ../charitable/donation-receipt/summary.php:28
+msgid "Payment Method:"
+msgstr ""
+
+#: ../charitable/form-fields/picture.php:92
+msgid "Uploading..."
+msgstr ""
+
+#: ../charitable/shortcodes/logged-in.php:17
+msgid "You are already logged in!"
+msgstr ""
+
+#: ../charitable/shortcodes/login.php:36
+msgid "Forgot Password"
+msgstr ""
+
+#: ../charitable/shortcodes/my-donations.php:24
+msgid "You have not made any donations yet."
+msgstr ""
+
+#: ../charitable/shortcodes/my-donations.php:34
+msgid "Receipt"
+msgstr ""
+
+#: ../charitable/shortcodes/my-donations.php:43
+msgid "View Receipt"
+msgstr ""
+
+#: ../charitable/shortcodes/registration.php:57
+msgid "Register"
+msgstr ""
+
+#: ../charitable/widgets/donors.php:91
+msgid "No donors yet. Be the first!"
+msgstr ""
+
+#. translators: 1: title.
+#: ../comments.php:34
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#: ../comments.php:66
+msgid "Comments are closed."
+msgstr ""
+
+#: ../functions.php:66
+msgid "Primary"
+msgstr ""
+
+#: ../functions.php:121
+msgid "Blog Sidebar"
+msgstr ""
+
+#: ../functions.php:123
+msgid "Add widgets here. It will be shown to the blog pages."
+msgstr ""
+
+#: ../functions.php:130
+msgid "Donation Cause Sidebar"
+msgstr ""
+
+#: ../functions.php:132
+msgid "It will be shown to the campaign pages."
+msgstr ""
+
+#: ../functions.php:139
+msgid "Events Sidebar"
+msgstr ""
+
+#: ../functions.php:141
+msgid "It will be shown to the events pages."
+msgstr ""
+
+#: ../functions.php:148
+msgid "Footer Widgets"
+msgstr ""
+
+#: ../functions.php:150
+msgid "Add widgets here. It will be shown to the footer area."
+msgstr ""
+
+#: ../header.php:24
+msgid "Skip to content"
+msgstr ""
+
+#: ../inc/breadcrumbs.php:249
+msgid "Browse:"
+msgstr ""
+
+#: ../inc/breadcrumbs.php:250 ../inc/xt-core-functions.php:766
+msgid "Breadcrumbs"
+msgstr ""
+
+#: ../inc/breadcrumbs.php:251 ../inc/xt-core-functions.php:767
+msgid "Home"
+msgstr ""
+
+#: ../inc/breadcrumbs.php:253 ../inc/xt-core-functions.php:769
+msgid "Archives"
+msgstr ""
+
+#: ../inc/breadcrumbs.php:255 ../inc/xt-core-functions.php:770
+#, php-format
+msgid "Search results for &#8220;%s&#8221;"
+msgstr ""
+
+#: ../inc/breadcrumbs.php:257 ../inc/xt-core-functions.php:771
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: ../inc/breadcrumbs.php:259 ../inc/xt-core-functions.php:772
+#, php-format
+msgid "Minute %s"
+msgstr ""
+
+#: ../inc/breadcrumbs.php:261 ../inc/xt-core-functions.php:773
+#, php-format
+msgid "Week %s"
+msgstr ""
+
+#: ../inc/breadcrumbs.php:680 ../inc/event-calender-functions.php:100
+msgid "Events"
+msgstr ""
+
+#: ../inc/ch-woocommerce-functions.php:164
+msgid "WooCommerce Shop"
+msgstr ""
+
+#: ../inc/ch-woocommerce-functions.php:166
+msgid ""
+"Add widgets here. It will be shown to the WooCommerce shop and few other "
+"WooCommerce pages."
+msgstr ""
+
+#: ../inc/ch-woocommerce-functions.php:173
+msgid "WooCommerce Product"
+msgstr ""
+
+#: ../inc/ch-woocommerce-functions.php:175
+msgid "Add widgets here. It will be shown to the WooCommerce product page."
+msgstr ""
+
+#: ../inc/charitable-functions.php:118
+#, php-format
+msgid ""
+"<div class=\"ch-campaign-stats\"><span class=\"ch-donation-raised\">Raised: "
+"%1$s</span><span class=\"ch-donation-goal\">Goal: %2$s</span></div>"
+msgstr ""
+
+#: ../inc/charitable-functions.php:123
+#, php-format
+msgid "<div class=\"ch-campaign-stats\">%s donated</div>"
+msgstr ""
+
+#: ../inc/give/give-functions.php:40
+msgid "No donation yet"
+msgstr ""
+
+#: ../inc/give/give-functions.php:42
+msgid " Donation"
+msgstr ""
+
+#: ../inc/give/give-functions.php:44
+msgid " Donations"
+msgstr ""
+
+#: ../inc/give/give-widgets.php:35
+msgid "Give Donation Forms"
+msgstr ""
+
+#: ../inc/give/give-widgets.php:36
+msgid "Give Donation Forms List"
+msgstr ""
+
+#: ../inc/give/give-widgets.php:85 ../inc/give/give-widgets.php:204
+msgid "Title:"
+msgstr ""
+
+#: ../inc/give/give-widgets.php:90
+msgid "Number of Forms:"
+msgstr ""
+
+#: ../inc/give/give-widgets.php:92 ../inc/give/give-widgets.php:211
+msgid "Default show 5 forms."
+msgstr ""
+
+#: ../inc/give/give-widgets.php:96
+msgid "Forms Orderby:"
+msgstr ""
+
+#: ../inc/give/give-widgets.php:98
+msgid "None"
+msgstr ""
+
+#: ../inc/give/give-widgets.php:100
+msgid "Author"
+msgstr ""
+
+#: ../inc/give/give-widgets.php:101
+msgid "Title"
+msgstr ""
+
+#: ../inc/give/give-widgets.php:102
+msgid "Name"
+msgstr ""
+
+#: ../inc/give/give-widgets.php:104
+msgid "Rand"
+msgstr ""
+
+#: ../inc/give/give-widgets.php:105
+msgid "Menu order"
+msgstr ""
+
+#: ../inc/give/give-widgets.php:110
+msgid "Forms order:"
+msgstr ""
+
+#: ../inc/give/give-widgets.php:112
+msgid "Ascending"
+msgstr ""
+
+#: ../inc/give/give-widgets.php:113
+msgid "Descending"
+msgstr ""
+
+#: ../inc/give/give-widgets.php:118
+msgid "Show Forms Image"
+msgstr ""
+
+#: ../inc/give/give-widgets.php:120 ../inc/give/give-widgets.php:126
+#: ../inc/give/give-widgets.php:217
+msgid "Yes"
+msgstr ""
+
+#: ../inc/give/give-widgets.php:124
+msgid "Show Donation Stats"
+msgstr ""
+
+#: ../inc/give/give-widgets.php:163
+msgid "Give Donation tags / categories"
+msgstr ""
+
+#: ../inc/give/give-widgets.php:164
+msgid "Give Donation tags / categories list"
+msgstr ""
+
+#: ../inc/give/give-widgets.php:209
+msgid "Number of Categories / tags:"
+msgstr ""
+
+#: ../inc/give/give-widgets.php:215
+msgid "Hide empty categories"
+msgstr ""
+
+#: ../inc/give/give-widgets.php:221
+msgid "Taxonomy:"
+msgstr ""
+
+#: ../inc/give/give-widgets.php:223
+msgid "give_forms_category"
+msgstr ""
+
+#: ../inc/give/give-widgets.php:224
+msgid "give_forms_tag"
+msgstr ""
+
+#: ../inc/kc-config.php:38
+msgid "Row Padding"
+msgstr ""
+
+#: ../inc/kc-config.php:41
+msgid ""
+"By default row has 60px padding on top & bottom. You can disable it here."
+msgstr ""
+
+#: ../inc/kc-config.php:49
+msgid "Row Color"
+msgstr ""
+
+#: ../inc/kc-config.php:53
+msgid "Default"
+msgstr ""
+
+#: ../inc/kc-config.php:54
+msgid "White"
+msgstr ""
+
+#: ../inc/kc-config.php:57
+msgid ""
+"Select row text color. You can select white, if you have background image or "
+"color."
+msgstr ""
+
+#: ../inc/kc-config.php:79
+msgid "Theme Style Button"
+msgstr ""
+
+#: ../inc/kc-config.php:82
+msgid "If checked button style will be taken from theme style."
+msgstr ""
+
+#: ../inc/kc-config.php:103
+msgid "Theme Style Image"
+msgstr ""
+
+#: ../inc/kc-config.php:106
+msgid "If checked Image style will be taken from theme style."
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: ../inc/template-tags.php:92
+msgid ", "
+msgstr ""
+
+#. translators: %s: post title
+#: ../inc/template-tags.php:101
+#, php-format
+msgid ""
+"<i class=\"fa fa-comments\" aria-hidden=\"true\"></i> Leave a Comment<span "
+"class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#. translators: %s: Name of current post
+#: ../inc/template-tags.php:108 ../template-parts/content-page.php:30
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: ../inc/xt-core-functions.php:664
+msgid "Search result"
+msgstr ""
+
+#: ../inc/xt-core-functions.php:666
+msgid "Nothing Found"
+msgstr ""
+
+#: ../inc/xt-core-functions.php:679 ../inc/xt-core-functions.php:687
+msgid "Blog"
+msgstr ""
+
+#: ../inc/xt-core-functions.php:683
+msgid "404"
+msgstr ""
+
+#: ../inc/xt-core-functions.php:892
+msgid "previous"
+msgstr ""
+
+#: ../inc/xt-core-functions.php:907
+msgid "next"
+msgstr ""
+
+#: ../inc/xt-core-functions.php:949
+msgid "All Posts by "
+msgstr ""
+
+#: ../inc/xt-core-functions.php:1010
+msgid "Edit"
+msgstr ""
+
+#: ../inc/xt-core-functions.php:1014
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../inc/xt-core-functions.php:1105
+msgid "KingComposer &#8208; Drag and Drop Page Builder"
+msgstr ""
+
+#: ../inc/xt-core-functions.php:1110
+msgid "Humane CPT and Shortcode"
+msgstr ""
+
+#: ../inc/xt-core-functions.php:1117
+msgid "Charitable Donation Plugin"
+msgstr ""
+
+#: ../inc/xt-core-functions.php:1122
+msgid "WooCommerce"
+msgstr ""
+
+#: ../inc/xt-core-functions.php:1127
+msgid "The Events Calendar"
+msgstr ""
+
+#: ../inc/xt-core-functions.php:1132
+msgid "Contact Form 7"
+msgstr ""
+
+#: ../inc/xt-core-functions.php:1137
+msgid "One Click Demo Import"
+msgstr ""
+
+#: ../inc/xt-core-functions.php:1173
+msgid "Demo Import"
+msgstr ""
+
+#: ../inc/xt-core-functions.php:1177
+msgid ""
+"After importing the demo data, please follow this theme documentation step "
+"by step."
+msgstr ""
+
+#: ../single.php:26
+msgid "Previous"
+msgstr ""
+
+#: ../single.php:27
+msgid "Next"
+msgstr ""
+
+#. translators: %s: Name of current post.
+#: ../template-parts/content-campaign.php:56
+#: ../template-parts/content-search.php:41 ../template-parts/content.php:50
+#, php-format
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../template-parts/content-campaign.php:65
+#: ../template-parts/content-campaign.php:70
+#: ../template-parts/content-give_forms.php:59
+#: ../template-parts/content-give_forms.php:64
+#: ../template-parts/content-page.php:18 ../template-parts/content.php:59
+#: ../template-parts/content.php:64
+msgid "Pages:"
+msgstr ""
+
+#: ../template-parts/content-none.php:18
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: ../template-parts/content-none.php:22
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: ../template-parts/content-none.php:28
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: ../tribe-events/day/single-event.php:66
+#: ../tribe-events/day/single-featured.php:65
+#: ../tribe-events/list/single-event.php:76
+#: ../tribe-events/list/single-featured.php:75
+msgid "Find out more"
+msgstr ""
+
+#: ../tribe-events/single-event.php:47 ../tribe-events/single-event.php:80
+#, php-format
+msgid "%s Navigation"
+msgstr ""
+
+#: ../tribe-events/widgets/list-widget.php:95
+#, php-format
+msgid "View All %s"
+msgstr ""
+
+#: ../tribe-events/widgets/list-widget.php:101
+#, php-format
+msgid "There are no upcoming %s at this time."
+msgstr ""

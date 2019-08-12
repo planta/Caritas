@@ -1,0 +1,759 @@
+# Translation of Plugins - Google Analytics by MonsterInsights - Stable (latest release) in Croatian
+# This file is distributed under the same license as the Plugins - Google Analytics by MonsterInsights - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-12-09 10:19:58+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.3.0-alpha\n"
+"Language: hr\n"
+"Project-Id-Version: Plugins - Google Analytics by MonsterInsights - Stable (latest release)\n"
+
+#: googleanalytics.php:57
+msgid "MonsterInsights 6.0 is Coming Soon — %sCheck out the sneak peak%s — It’s going to be awesome"
+msgstr "MonsterInsights 6.0 uskoro dolazi — %sŠkicnite i saznajte novosti%s — biti će fenomenalno"
+
+#: admin/pages/dashboard.php:20
+msgid "System Info"
+msgstr "Informacije o sistemu"
+
+#. Author URI of the plugin/theme
+msgid "https://www.monsterinsights.com/"
+msgstr "https://www.monsterinsights.com/"
+
+#. Author of the plugin/theme
+msgid "MonsterInsights"
+msgstr "MonsterInsights"
+
+#. Plugin URI of the plugin/theme
+msgid "https://www.monsterinsights.com/pricing/#utm_source=wordpress&utm_medium=plugin&utm_campaign=wpgaplugin&utm_content=v504"
+msgstr "https://www.monsterinsights.com/pricing/#utm_source=wordpress&utm_medium=plugin&utm_campaign=wpgaplugin&utm_content=v504"
+
+#: admin/views/content-footer.php:15
+msgid "Upgrade to Google Analytics By MonsterInsights Pro »"
+msgstr "Nadogradite na Google Analytics By MonsterInsights Pro »"
+
+#: admin/pages/dashboard.php:14 admin/pages/extensions.php:14
+#: admin/pages/settings.php:10
+msgid "Google Analytics by MonsterInsights: "
+msgstr "Google Analytics by MonsterInsights: "
+
+#. #-#-#-#-#  tmp-google-analytics-for-wordpress.pot (Google Analytics by
+#. MonsterInsights 5.5.4)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: admin/class-admin.php:553
+msgid "Google Analytics by MonsterInsights"
+msgstr "Google Analytics by MonsterInsights"
+
+#: admin/class-admin.php:547
+msgid "Google Analytics by MonsterInsights Pro"
+msgstr "Google Analytics by MonsterInsights Pro"
+
+#: admin/class-admin-menu.php:100
+msgid "Insights"
+msgstr "Uvidi"
+
+#: admin/class-admin-menu.php:100 admin/class-admin-menu.php:125
+msgid "Google Analytics by MonsterInsights:"
+msgstr "Google Analytics by MonsterInsights:"
+
+#. Description of the plugin/theme
+msgid "This plugin makes it simple to add Google Analytics to your WordPress site, adding lots of features, e.g. error page, search result and automatic outgoing links and download tracking."
+msgstr "Ovaj dodatak olakšava dodavanje Google Analyticsa u vašu WordPress web-stranicu, dodajući puno mogućnosti, npr. stranicu o grešci, rezultate pretrage i automatske odlazne poveznice i praćenje preuzimanja."
+
+#: vendor/yoast/license-manager/views/form.php:84
+#: vendor/yoast/license-manager-2/views/form.php:84
+msgid "%sRenew your license now%s."
+msgstr "%sObnovite svoju licencu%s."
+
+#: vendor/yoast/license-manager/views/form.php:81
+#: vendor/yoast/license-manager-2/views/form.php:81
+msgid "Your %s license will expire on %s."
+msgstr "Vaša licenca %s isteći će na %s."
+
+#: vendor/yoast/license-manager/views/form.php:64
+#: vendor/yoast/license-manager-2/views/form.php:64
+msgid "You defined your license key using the %s PHP constant."
+msgstr "Svoj licencni ključe definirali ste koristeći %s PHP konstantu."
+
+#: vendor/yoast/license-manager/views/form.php:62
+#: vendor/yoast/license-manager-2/views/form.php:62
+msgid "Paste your %s license key here.."
+msgstr "Ovdje zalijepite svoj %s licencni ključ..."
+
+#: vendor/yoast/license-manager/views/form.php:60
+#: vendor/yoast/license-manager-2/views/form.php:60
+msgid "License Key"
+msgstr "Licencni ključ"
+
+#: vendor/yoast/license-manager/views/form.php:52
+#: vendor/yoast/license-manager-2/views/form.php:52
+msgid "Please enter a license key in the field below first."
+msgstr "U polje ispod unesite svoj licencni ključ"
+
+#: vendor/yoast/license-manager/views/form.php:46
+#: vendor/yoast/license-manager-2/views/form.php:46
+msgid "(deactivate your license so you can activate it on another WordPress site)"
+msgstr "(deaktivirajte svoju licencu kako bi mogli ju mogli aktivirati na drugo WordPress web-stranici)"
+
+#: vendor/yoast/license-manager/views/form.php:45
+#: vendor/yoast/license-manager-2/views/form.php:45
+msgid "Deactivate License"
+msgstr "Deaktiviraj licencu"
+
+#: vendor/yoast/license-manager/views/form.php:41
+#: vendor/yoast/license-manager-2/views/form.php:41
+msgid "Toggle license status"
+msgstr "Prikaži/sakrije status licence"
+
+#: vendor/yoast/license-manager/views/form.php:31
+#: vendor/yoast/license-manager-2/views/form.php:31
+msgid "License status"
+msgstr "Status licence"
+
+#: vendor/yoast/license-manager/views/form.php:19
+#: vendor/yoast/license-manager-2/views/form.php:19
+msgid "Your server has an outdated version of the PHP module cURL (Version: %s). Please ask your hosting company to update this to a recent version of cURL. You can read more about that in our %sKnowledge base%s."
+msgstr "Vaš poslužite ima zastarjelu inačicu PHP modula cURL (Inačica: %s). Zamolite svog pružatelja hosting usluga da ažurira na najnoviju inačicu cURL modul. Više o ovome možete pročitati u našoj %sBazi znanja%s."
+
+#: vendor/yoast/license-manager/views/form.php:15
+#: vendor/yoast/license-manager-2/views/form.php:15
+msgid "We couldn't create a connection to our API to verify your license key(s). Please ask your hosting company to allow outgoing connections from your server to %s."
+msgstr "Nije moguće kreirati vezu s našim API-jem kako bi provjerili vašu licencu. Zamolite svog pružatelja hosting usluga da omogući odlazne veze s vašeg poslužitelja na %s."
+
+#: vendor/yoast/license-manager/class-update-manager.php:157
+#: vendor/yoast/license-manager-2/class-update-manager.php:157
+msgid "This site has not been activated properly on yoast.com and thus cannot check for future updates. Please activate your site with a valid license key."
+msgstr "Ova web-stranica nije ispravno aktivirana na yoast.com i stoga se ne može provjeriti dostupnost budućih nadogradnji. Aktivirajte svoju web-stranicu s ispravnim licencnim ključem."
+
+#: vendor/yoast/license-manager/class-update-manager.php:79
+#: vendor/yoast/license-manager-2/class-update-manager.php:79
+msgid "%s failed to check for updates because of the following error: <em>%s</em>"
+msgstr "%s provjera ažuriranja nije uspjela zbog sljedeće greške: <em>%s</em>"
+
+#: vendor/yoast/license-manager/class-theme-update-manager.php:97
+#: vendor/yoast/license-manager-2/class-theme-update-manager.php:97
+msgid "<strong>%s version %s</strong> is available. <a href=\"%s\" class=\"thickbox\" title=\"%s\">Check out what's new</a> or <a href=\"%s\" %s>update now</a>."
+msgstr "<strong>%s inačica %s</strong> je dostupna. <a href=\"%s\" class=\"thickbox\" title=\"%s\">Saznajte što je novo</a> ili <a href=\"%s\" %s>odmah ažurirajte</a>."
+
+#: vendor/yoast/license-manager/class-theme-update-manager.php:92
+#: vendor/yoast/license-manager-2/class-theme-update-manager.php:92
+msgid "Updating this theme will lose any customizations you have made. 'Cancel' to stop, 'OK' to update."
+msgstr "Ažuriranjem ove teme izgubiti ćete sve promijene koje ste napravili. 'Cancel' za prekid, 'OK' za ažuriranje."
+
+#: vendor/yoast/license-manager/class-theme-license-manager.php:34
+#: vendor/yoast/license-manager-2/class-theme-license-manager.php:34
+msgid "Theme License"
+msgstr "Licenca teme"
+
+#: vendor/yoast/license-manager/class-theme-license-manager.php:34
+#: vendor/yoast/license-manager-2/class-theme-license-manager.php:34
+msgid "%s License"
+msgstr "%s licenca"
+
+#: vendor/yoast/license-manager/class-plugin-license-manager.php:75
+#: vendor/yoast/license-manager-2/class-plugin-license-manager.php:75
+msgid "%s is network activated, please contact your site administrator to manage the license."
+msgstr "%s je aktiviran na mreži, kontaktirajte administratora vaše web-stranice za upravljanje licencom."
+
+#: vendor/yoast/license-manager/class-plugin-license-manager.php:73
+#: vendor/yoast/license-manager-2/class-plugin-license-manager.php:73
+msgid "%s is network activated, you can manage your license in the <a href=\"%s\">network admin license page</a>."
+msgstr "%s je aktiviran na mreži, možete upravljati vašom licencom na zaslonu <a href=\"%s\">licence mrežnog admina</a>."
+
+#: vendor/yoast/license-manager/class-license-manager.php:426
+#: vendor/yoast/license-manager-2/class-license-manager.php:426
+msgid "%s: License Settings"
+msgstr "%s: postavke licence"
+
+#: vendor/yoast/license-manager/class-license-manager.php:267
+#: vendor/yoast/license-manager-2/class-license-manager.php:267
+msgid "Request error: \"%s\" (%scommon license notices%s)"
+msgstr "Greška upita: \"%s\" (%sčeste obavijesti licence%s)"
+
+#: vendor/yoast/license-manager/class-license-manager.php:231
+#: vendor/yoast/license-manager-2/class-license-manager.php:231
+msgid "Failed to deactivate your %s license."
+msgstr "Neuspjela deaktivacija vaše %s licence."
+
+#: vendor/yoast/license-manager/class-license-manager.php:229
+#: vendor/yoast/license-manager-2/class-license-manager.php:229
+msgid "Your %s license has been deactivated."
+msgstr "Vaša %s licenca je deaktivirana."
+
+#: vendor/yoast/license-manager/class-license-manager.php:205
+#: vendor/yoast/license-manager-2/class-license-manager.php:205
+msgid "Failed to activate your license, your license key seems to be invalid."
+msgstr "Neuspjela aktivacija vaše licence, izgleda da licencni ključ nije ispravan."
+
+#: vendor/yoast/license-manager/class-license-manager.php:202
+#: vendor/yoast/license-manager-2/class-license-manager.php:202
+msgid "Your license has expired. You must <a href=\"%s\">extend your license</a> in order to use it again."
+msgstr "Vaša licenca je istekla. Trebate <a href=\"%s\">produljiti svoju licencu</a> kako bi ju mogli ponovno koristiti."
+
+#: vendor/yoast/license-manager/class-license-manager.php:199
+#: vendor/yoast/license-manager-2/class-license-manager.php:199
+msgid "You've reached your activation limit. You must <a href=\"%s\">upgrade your license</a> to use it on this site."
+msgstr "Dosegli ste aktivacijski limit. Trebate <a href=\"%s\">nadograditi svoju licencu</a> kako bi ju mogli koristiti na ovoj web-stranici."
+
+#: vendor/yoast/license-manager/class-license-manager.php:190
+#: vendor/yoast/license-manager-2/class-license-manager.php:190
+msgid "<a href=\"%s\">Your license is expiring in %d days, would you like to extend it?</a>"
+msgstr "<a href=\"%s\">Vaša licenca ističe za %d dana, želite li ju produljiti?</a>"
+
+#: vendor/yoast/license-manager/class-license-manager.php:186
+#: vendor/yoast/license-manager-2/class-license-manager.php:186
+msgid "<a href=\"%s\">Did you know you can upgrade your license?</a>"
+msgstr "<a href=\"%s\">Jeste li znali da možete nadograditi svoju licencu?</a>"
+
+#: vendor/yoast/license-manager/class-license-manager.php:181
+#: vendor/yoast/license-manager-2/class-license-manager.php:181
+msgid "You have used %d/%d activations. "
+msgstr "Iskoristili ste %d/%d aktivacija."
+
+#: vendor/yoast/license-manager/class-license-manager.php:179
+#: vendor/yoast/license-manager-2/class-license-manager.php:179
+msgid "You have an unlimited license. "
+msgstr "Imate neograničenu licencu."
+
+#: vendor/yoast/license-manager/class-license-manager.php:175
+#: vendor/yoast/license-manager-2/class-license-manager.php:175
+msgid "Your %s license has been activated. "
+msgstr "Vaša %s licenca je aktivirana."
+
+#: vendor/yoast/license-manager/class-license-manager.php:134
+#: vendor/yoast/license-manager-2/class-license-manager.php:134
+msgid "<b>Warning!</b> You're blocking external requests which means you won't be able to get %s updates. Please add %s to %s."
+msgstr "<b>Upozorenje!</b> Blokirate vanjske zahtjeve što znači da nećete moći dobiti %s ažuriranja. Dodajte %s u %s."
+
+#: googleanalytics.php:112
+msgid "The (standard) PHP filter extension seem to be unavailable. Please ask your web host to enable it."
+msgstr "Izgleda da (standard) PHP filter ekstenzija nije dostupna. Pitajte svoj web host da ju omogući."
+
+#: googleanalytics.php:99
+msgid "The Standard PHP Library (SPL) extension seem to be unavailable. Please ask your web host to enable it."
+msgstr "Izgleda da Standard PHP Library (SPL) ekstenzija nije dostupna. Pitajte svoj web host da ju omogući."
+
+#: frontend/abstract-class-tracking.php:482
+msgid "Normally you will find the Google Analytics tracking code here, but the webmaster has enabled the Debug Mode."
+msgstr "Obično ovdje možete pronaći Google Analytics kod za praćenje, ali izgleda da je webmaster uključio Režim ispravljanja grešaka (Debug mode)."
+
+#: frontend/abstract-class-tracking.php:479
+msgid "@Webmaster, normally you will find the Google Analytics tracking code here, but the Debug Mode is enabled. To change this, navigate to Analytics -> Settings -> (Tab) Debug Mode and disable Debug Mode to enable tracking of your site."
+msgstr "@Webmaster, Obično ovdje možete pronaći Google Analytics kod za praćenje, ali je uključen Režim ispravljanja grešaka (Debug mode). Kako bi promijenili ovo, otvorite Analitika -> Postavke -> (Kartica) Ispravljanje grešaka i kliknite isključi režim ispravljanja grešaka, za uključivanje praćenja vaše web-stranice."
+
+#: frontend/abstract-class-tracking.php:461
+msgid "Normally you will find the Google Analytics tracking code here, but the webmaster disabled your user group."
+msgstr "Obično ovdje možete pronaći Google Analytics kod za praćenje, ali izgleda da je webmaster onemogućio vašu korisničku grupu."
+
+#: frontend/abstract-class-tracking.php:458
+msgid "@Webmaster, normally you will find the Google Analytics tracking code here, but you are in the disabled user groups. To change this, navigate to Analytics -> Settings (Ignore usergroups)"
+msgstr "@Webmaster, obično ovdje možete pronaći Google Analytics kod za praćenje, ali ste trenutno u onemogućenoj korisničkoj grupi. Kako bi promijenili ovo, otvorite Analitika -> Postavke -> (Ignoriraj korisničke grupe)."
+
+#: frontend/abstract-class-tracking.php:455
+#: frontend/abstract-class-tracking.php:476
+msgid "This site uses the %1$s plugin version %2$s"
+msgstr "Ova web-stranica koristi %1$s inačicu dodatka %2$s"
+
+#: admin/views/content-footer.php:14
+msgid "Remove these ads?"
+msgstr "Želite ukloniti oglase?"
+
+#: admin/pages/settings.php:185
+msgid "Select the users to ignore"
+msgstr "Odaberite korisnike koje ćete ignorirati"
+
+#: admin/pages/settings.php:171
+msgid "Enable debug mode"
+msgstr "Uključi režim ispravljanja grešaka"
+
+#: admin/pages/settings.php:169
+msgid "<strong>Note</strong> the debugging is only loaded for administrators."
+msgstr "<strong>Imajte na umu</strong> da je ispravljanje grešaka uključeno samo za administratore."
+
+#: admin/pages/settings.php:168
+msgid "If you want to confirm that tracking on your blog is working as it should, enable this option and check the console of your browser. Be absolutely sure to disable debugging afterwards, as it is slower than normal tracking."
+msgstr "Ako želite potvrditi da praćenje na vašem blogu radi kako treba, uključite ovu opciju i provjerite konzolu vašeg preglednika. Budite apsolutno sigurni da isključite ispravljanje grešaka nakon, jer usporava normalno praćenje."
+
+#: admin/pages/settings.php:165
+msgid "Debug"
+msgstr "Ispravljanje grešaka"
+
+#: admin/pages/settings.php:158
+msgid "Custom dimensions"
+msgstr "Prilagođene dimenzije"
+
+#: admin/pages/settings.php:147
+msgid "Not for the average user: this allows you to add a line of code, to be added before the %1$s call."
+msgstr "Ovo nije za prosječnog korisnika: ovo vam omogućuje dodavanje koda, koji će se pojaviti prije %1$s poziva."
+
+#: admin/pages/settings.php:147
+msgid "Custom code"
+msgstr "Prilagođeni kod"
+
+#: admin/pages/settings.php:145
+msgid "This adds a %1$s call to your tracking code, allowing you to use %2$s and related functions."
+msgstr "Ovo dodaje %1$s poziv u vašem kodu za praćenje, omogućujući vam upotrebu %2$s i srodnih funkcija."
+
+#: admin/pages/settings.php:145
+msgid "Add <code>_setAllowLinker</code>"
+msgstr "Dodaj <code>_setAllowLinker</code>"
+
+#: admin/pages/settings.php:144
+msgid "This adds a %1$s call to your tracking code, and makes RSS link tagging use a %2$s as well."
+msgstr "Ovo dodaje %1$s poziv u vašem kodu za praćenje, i omogućuje da označavanje RSS poveznica također koristi %2$s."
+
+#: admin/pages/settings.php:144
+msgid "Allow anchor"
+msgstr "Dopusti sidro"
+
+#: admin/pages/settings.php:143
+msgid "Do not use this feature if you use FeedBurner, as FeedBurner can do this automatically and better than this plugin can. Check <a href=\"https://support.google.com/feedburner/answer/165769?hl=en&amp;ref_topic=13075\" target=\"_blank\">this help page</a> for info on how to enable this feature in FeedBurner."
+msgstr "Nemojte koristiti ovu značajku ako koristite FeedBurner, jer FeedBurner ovo automatski može napraviti i bolje od ovog dodatka. Proučite <a href=\"https://support.google.com/feedburner/answer/165769?hl=en&amp;ref_topic=13075\" target=\"_blank\">ovu stranicu pomoći</a> za informacije kako omogućiti ovu značajku u FeedBurneru."
+
+#: admin/pages/settings.php:143
+msgid "Tag links in RSS feed with campaign variables"
+msgstr "Označi poveznice u RSS kanalu s varijablama kampanje"
+
+#: admin/pages/settings.php:141
+msgid "Label for those links"
+msgstr "Etikete za te poveznice"
+
+#: admin/pages/settings.php:140
+msgid "If you want to track all internal links that begin with %1$s, enter %1$s in the box above. If you have multiple prefixes you can separate them with comma's: %2$s"
+msgstr "Ako želite pratiti sve unutrašnje poveznice koje počinju s %1$s, unesite %1$s, u okvir iznad. Ako ime više prefiksa, možete koristiti zarez za odvajanje: %2$s"
+
+#: admin/pages/settings.php:140
+msgid "Set path for internal links to track as outbound links"
+msgstr "Postavi putanju za unutrašnje poveznice koje će se pratiti kao odlazne poveznice"
+
+#: admin/pages/settings.php:138
+msgid "This allows you to set the domain that's set by %1$s for tracking subdomains.<br/>If empty, this will not be set."
+msgstr "Ovo vam omogućuje postavljanje domene koja je postavljena od strane %1$s za praćenje pod-domena.<br/>Ako je prazno, ovo se neće koristiti."
+
+#: admin/pages/settings.php:138
+msgid "Subdomain tracking"
+msgstr "Praćenje pod-domena."
+
+#: admin/pages/settings.php:137
+msgid "Track full URL of outbound clicks or just the domain"
+msgstr "Praćenje cijelog URL-a odlaznih poveznica ili samo domene"
+
+#: admin/pages/settings.php:136
+msgid "Extensions of files to track as downloads"
+msgstr "Ekstenzije datoteka koje se prate kao preuzimanje"
+
+#: admin/pages/settings.php:135
+msgid "Not recommended, as this would skew your statistics, but it does make it possible to track downloads as goals."
+msgstr "Nije preporučeno, jer bi ovo moglo poremetiti vašu statistiku, ali omogućuje praćenje preuzimanja kao ciljeva."
+
+#: admin/pages/settings.php:135
+msgid "Track downloads as"
+msgstr "Prati preuzimanja kao"
+
+#: admin/pages/settings.php:134
+msgid "Advanced settings"
+msgstr "Napredne postavke"
+
+#: admin/pages/settings.php:124
+msgid "Add %1$sEnhanced Link Attribution%2$s to your tracking code."
+msgstr "Dodaj %1$sEnhanced Link Attribution%2$s svojem kodu za praćenje"
+
+#: admin/pages/settings.php:124
+msgid "Enhanced Link Attribution"
+msgstr "Enhanced Link Attribution"
+
+#: admin/pages/settings.php:118
+msgid "Check this setting to add the Demographics and Remarketing features to your Google Analytics tracking code. We've written an article in our %1$sknowledge base%2$s about Demographics and Interest reports. For more information about Remarketing, we refer you to %3$sGoogle's documentation%2$s."
+msgstr "Označite ovu postavku kako bi dodali Demographics i Remarketing značajke svojem Google Analytics kodu za praćenje. Napisali smo članak u našoj %1$sbazi znanja%2$s o Demographics i Interest izvještajima. Za više informacija o Remarketingu, upućujemo vas na %3$sGoogle dokumentaciju%2$s."
+
+#: admin/pages/settings.php:115
+msgid "Note that usage of this function is affected by privacy and cookie laws around the world. Be sure to follow the laws that affect your target audience."
+msgstr "Imajte na umu da na upotrebu ove funkcije utječu pravni zakoni o privatnosti i kolačićima. Provjerite da poštujete zakone koji se odnose na vašu ciljanu publiku."
+
+#: admin/pages/settings.php:113
+msgid "Enable Demographics and Interests Reports for Remarketing and Advertising"
+msgstr "Uključi Demographics i Interests izvještaje za Remarketing i Advertising"
+
+#: admin/pages/settings.php:110
+msgid "First enable Universal tracking in your Google Analytics account. Please read %1$sthis guide%2$s to learn how to do that."
+msgstr "Prvo uključite Universal tracking u svojem Google Analytics računu. . Pročitajte %1$sove upute%2$s kako bi naučilli kako to napraviti."
+
+#: admin/pages/settings.php:110
+msgid "Enable Universal tracking"
+msgstr "Uključi Universal tracking"
+
+#: admin/pages/settings.php:109
+msgid "Universal settings"
+msgstr "Universal postavke"
+
+#: admin/pages/settings.php:103
+msgid "This will completely disable the dashboard and stop the plugin from fetching the latest analytics data."
+msgstr "Ovo će u potpunosti onemogućiti Nadzornu ploču i zaustaviti dodatak u prikupljanju najnovijih analitičkih podataka."
+
+#: admin/pages/settings.php:103
+msgid "Disable analytics dashboard"
+msgstr "Isključi nadzornu ploču analitike"
+
+#: admin/pages/settings.php:102
+msgid "Users of the role you select will be ignored, so if you select Editor, all Editors will be ignored."
+msgstr "Korisnici s ulogama koje vi odaberete biti će ignorirani, stoga ako odaberete Urednik, svi Urednici biti će ignorirani."
+
+#: admin/pages/settings.php:102
+msgid "Ignore users"
+msgstr "Ignoriraj korisnike"
+
+#: admin/pages/settings.php:101
+msgid "This adds %1$s, telling Google Analytics to anonymize the information sent by the tracker objects by removing the last octet of the IP address prior to its storage."
+msgstr "Ovo dodaj %1$s, i upućuje Google Analytics da anonimizira informacije koje šalju bojekti praćenja uklanjajući zadnji oktet IP adrese prije njenog pohranjivanja."
+
+#: admin/pages/settings.php:101
+msgid "Anonymize IPs"
+msgstr "Anonimiziraj IP-ove"
+
+#: admin/pages/settings.php:100
+msgid "By allowing us to track anonymous data we can better help you, because we know with which WordPress configurations, themes and plugins we should test. No personal data will be submitted."
+msgstr "Dopuštajući praćenje anonimnih podataka možemo bolje pomoći, jer znamo s kojom WordPress konfiguracijom, temama i dodacima trebamo testirati. Osobni podaci neće se slati."
+
+#: admin/pages/settings.php:100
+msgid "Allow tracking of anonymous data"
+msgstr "Dopusti praćenje anonimnih podataka"
+
+#: admin/pages/settings.php:99
+msgid "Clicks and downloads will be tracked as events, you can find these under Content &#xBB; Event Tracking in your Google Analytics reports."
+msgstr "Klikovi i preuzimanja pratiti će se kao događaji (events), možete ih pronaći u Content &#xBB; Event Tracking u vašim Google Analytics izvještajima."
+
+#: admin/pages/settings.php:99
+msgid "Track outbound click and downloads"
+msgstr "Prati odlazne klikove i preuzimanja"
+
+#: admin/pages/settings.php:93
+msgid "Warning: If you use a manual UA code, you won't be able to use the dashboards."
+msgstr "Upozorenje: Ako koristite manualni UA kod, nećete moći koristiti nadzorne ploče."
+
+#: admin/pages/settings.php:89
+msgid "Manually enter your UA code"
+msgstr "Manualno unesite svoj UA kod"
+
+#: admin/pages/settings.php:85
+msgid "Until this is fixed, you can only use the manual authentication method and cannot use the dashboards feature."
+msgstr "Sve dok se ovo ne popravi, možete koristiti samo manualnu metodu provjeru autentičnosti i ne možete koristiti opcije nadzorne ploče."
+
+#: admin/pages/settings.php:83
+msgid "Your firewall or webhost is blocking requests to Google, please ask your webhost company to fix this."
+msgstr "Vaš vatrozid ili web host blokira zahtjeve prema Googleu, zatražite svog pružatelja hosting usluga da popravi ovo."
+
+#: admin/pages/settings.php:80
+msgid "Your server is blocking requests to Google, to fix this, add <code>*.googleapis.com</code> to the <code>WP_ACCESSIBLE_HOSTS</code> constant in your <em>wp-config.php</em> or ask your webhost to do this."
+msgstr "Vaš vposlužitelj blokira zahtjeve prema Googleu, kako bi popravili ovo dodajte <code>*.googleapis.com</code> u <code>WP_ACCESSIBLE_HOSTS</code> konstantu u vašoj <em>wp-config.php</em> datoteci ili pitajte vaš web host da učini za vas."
+
+#: admin/pages/settings.php:78
+msgid "Cannot connect to Google"
+msgstr "Nije moguće povezati se s Googleom"
+
+#: admin/pages/settings.php:74
+msgid "Save authentication code"
+msgstr "Snimi kod provjere autentičnosti"
+
+#: admin/pages/settings.php:70
+msgid "Paste your Google code here"
+msgstr "Ovdje zalijepite svoj Google kod"
+
+#: admin/pages/settings.php:64
+msgid "Re-authenticate with your Google account"
+msgstr "Ponovno provjerite autentičnost s vašim Google računom"
+
+#: admin/pages/settings.php:60
+msgid "Select a profile"
+msgstr "Odaberi profil"
+
+#: admin/pages/settings.php:60
+msgid "Analytics profile"
+msgstr "Analytics profil"
+
+#: admin/pages/settings.php:55
+msgid "Current UA-profile"
+msgstr "Trenutni UA-profil"
+
+#: admin/pages/settings.php:52
+msgid "Authenticate with your Google account"
+msgstr "Provjerite autentičnost s vašim Google računom"
+
+#: admin/pages/settings.php:51
+msgid "Google profile"
+msgstr "Google profil"
+
+#: admin/pages/settings.php:46
+msgid "Paste your Google authentication code"
+msgstr "Zalijepite svoj Google kod provjere autentičnosti"
+
+#: admin/pages/settings.php:22
+msgid "Debug mode"
+msgstr "Režim ispravljanja grešaka"
+
+#: admin/pages/settings.php:20
+msgid "Custom Dimensions"
+msgstr "Prilagođene dimenzije"
+
+#: admin/pages/settings.php:19
+msgid "Advanced"
+msgstr "Napredno"
+
+#: admin/pages/settings.php:18
+msgid "Universal"
+msgstr "Universal"
+
+#: admin/pages/settings.php:17
+msgid "General"
+msgstr "Osnovno"
+
+#: admin/pages/extensions.php:51
+msgid "You have not installed any extensions for Google Analytics by MonsterInsights, so there are no licenses to activate."
+msgstr "Niste instalirani nikakve ekstenzije za Google Analytics by MonsterInsights, stoga nema licenci koje treba aktivirati."
+
+#: admin/pages/extensions.php:41
+msgid "Installed"
+msgstr "Instalirano"
+
+#: admin/pages/extensions.php:39 vendor/yoast/license-manager/views/form.php:50
+#: vendor/yoast/license-manager-2/views/form.php:50
+msgid "Activate License"
+msgstr "Aktiviraj licencu"
+
+#: admin/pages/extensions.php:36
+msgid "Get this extension"
+msgstr "Nabavi ovu ekstenziju"
+
+#: admin/pages/extensions.php:18
+msgid "Licenses"
+msgstr "Licence"
+
+#: admin/pages/dashboard.php:101
+msgid "Select a dimension"
+msgstr "Odaberi dimenziju"
+
+#: admin/pages/dashboard.php:66 admin/pages/dashboard.php:112
+msgid "You have not yet finished setting up Google Analytics for Wordpress by MonsterInsights. Please %sadd your Analytics profile here%s to enable tracking."
+msgstr "Još niste završili s postavljanjem Google Analytics for Wordpress by MonsterInsights. %sDodajte svoj Analytics profil ovdje%s kako bi omogućili praćenje."
+
+#: admin/pages/dashboard.php:53 admin/pages/dashboard.php:92
+msgid "Because we've switched to a newer version of the Google Analytics API, you'll need to re-authenticate with Google Analytics. We're sorry for the inconvenience. You can %sre-authenticate your Google Analytics profile here%s."
+msgstr "Zato jer smo se prebacili na noviju inačicu Google Analytics API-a, trebate napraviti ponovnu provjeru autentičnosti s Google Analytics. Ispričavamo se na ovoj neugodnosti. Možete %sovdje ponoviti provjeru autentičnosti s vašim Google Analytics profilom%s."
+
+#: admin/pages/dashboard.php:44 admin/pages/dashboard.php:83
+msgid "We need you to authenticate with Google Analytics to use this functionality. If you set your UA-code manually, this won't work. You can %sauthenticate your Google Analytics profile here%s to enable dashboards."
+msgstr "Trebate provjeriti autentičnost s Google Analytics  kako bi koristili ovu funkcionalnost. Ako manualno postavite svoj UA-kod, ovo neće funkcionirati. Možete %sovdje ponoviti provjeru autentičnosti s vašim Google Analytics profilom%s kako bi uključili nadzornu ploču.."
+
+#: admin/pages/dashboard.php:17
+msgid "Overview"
+msgstr "Pregled"
+
+#: admin/dashboards/views/graph.php:15 admin/dashboards/views/table.php:15
+msgid "Last month"
+msgstr "Zadnji mjesec"
+
+#: admin/dashboards/class-admin-dashboards.php:223
+msgid "The country or territory from which visits originated. <a href=\"http://yoa.st/gacountry\" target=\"_blank\">[Learn more]</a>"
+msgstr "Država ili teritorij iz kojeg dolazi posjetitelj.<a href=\"http://yoa.st/gacountry\" target=\"_blank\">[Saznajte više]</a>"
+
+#: admin/dashboards/class-admin-dashboards.php:222
+msgid "Countries"
+msgstr "Države"
+
+#: admin/dashboards/class-admin-dashboards.php:214
+msgid "Pages by url."
+msgstr "Stranice po URL-u."
+
+#: admin/dashboards/class-admin-dashboards.php:213
+msgid "Popular pages"
+msgstr "Popularne stranice"
+
+#: admin/dashboards/class-admin-dashboards.php:205
+msgid "Every referral to a web site has an origin, or (traffic) source. Possible sources include: “google” (the name of a search engine), “facebook.com” (the name of a referring site), “spring_newsletter” (the name of one of your newsletters), and “direct” (users that typed your URL directly into their browser, or who had bookmarked your site). <a href=\"http://yoa.st/gabnce\" target=\"_blank\">[Learn more]</a>"
+msgstr "Svaki referent na web-stranicu ima polazište, ili izvor (prometa). Mogući izvori uključuju: “google” (ime tražilice), “facebook.com” (ime referentne web-stranice), “spring_newsletter” (ime jednog od vaših biltena/newsletter), i “direct” (korisnici koji su upisali vaš URL direktno u preglednik, ili imaju zabilježenu vašu web-stranicu). <a href=\"http://yoa.st/gabnce\" target=\"_blank\">[Saznajte više]</a>"
+
+#: admin/dashboards/class-admin-dashboards.php:204
+msgid "Traffic sources"
+msgstr "Izvori prometa"
+
+#: admin/dashboards/class-admin-dashboards.php:198
+msgid "Bounce Rate is the percentage of single-page sessions (i.e. sessions in which the person left your site from the entrance page without interacting with the page). <a href=\"http://yoa.st/gabounce\" target=\"_blank\">[Learn more]</a>"
+msgstr "Bounce Rate je postotak razdoblja jedne stranice (npr. razdoblje u kojem je osoba napustila vašu web-stranicu od ulazne stranice bez interakcije s stranicom). <a href=\"http://yoa.st/gabounce\" target=\"_blank\">[Saznajte više]</a>"
+
+#: admin/dashboards/class-admin-dashboards.php:197
+msgid "Bounce rate"
+msgstr "Bounce rate"
+
+#: admin/dashboards/class-admin-dashboards.php:192
+msgid "A session is a group of interactions that take place on your website within a given time frame. For example a single session can contain multiple screen or page views, events, social interactions, and ecommerce transactions. <a href=\"http://yoa.st/gasessions\" target=\"_blank\">[Learn more]</a>"
+msgstr "Podatkovno razdoblje je grupa interakcija koje se dogode na vašoj web-stranici unutar određenog vremenskog razdoblja. Na primjer jedno podatkovno razdoblje može sadržavati više pregleda zaslona ili stranica, događaja, društvenih interakcija i ecommerce transakcija. <a href=\"http://yoa.st/gasessions\" target=\"_blank\">[Saznajte više]</a>"
+
+#: admin/dashboards/class-admin-dashboards.php:191
+#: admin/dashboards/class-admin-dashboards.php:208
+#: admin/dashboards/class-admin-dashboards.php:217
+#: admin/dashboards/class-admin-dashboards.php:226
+msgid "Sessions"
+msgstr "Podatkovno razdoblje"
+
+#: admin/dashboards/class-admin-dashboards.php:153 admin/pages/dashboard.php:19
+msgid "Custom dimension reports"
+msgstr "Prilagođene dimenzije izvještaja"
+
+#: admin/dashboards/class-admin-dashboards.php:152 admin/pages/dashboard.php:18
+msgid "Reports"
+msgstr "Izvještaji"
+
+#: admin/dashboards/class-admin-dashboards.php:149
+msgid "No matching records found"
+msgstr "Nisu pronađeni odgovarajući podaci"
+
+#: admin/dashboards/class-admin-dashboards.php:148
+msgid "Search"
+msgstr "Traži"
+
+#: admin/dashboards/class-admin-dashboards.php:147
+msgid "Processing..."
+msgstr "Obrada..."
+
+#: admin/dashboards/class-admin-dashboards.php:146
+msgid "Previous"
+msgstr "Prethodno"
+
+#: admin/dashboards/class-admin-dashboards.php:145
+msgid "Next"
+msgstr "Sljedeće"
+
+#: admin/dashboards/class-admin-dashboards.php:144
+msgid "Last"
+msgstr "Posljednje"
+
+#: admin/dashboards/class-admin-dashboards.php:143
+msgid "First"
+msgstr "Prvo"
+
+#: admin/dashboards/class-admin-dashboards.php:142
+msgid "Loading..."
+msgstr "Učitavanje..."
+
+#: admin/dashboards/class-admin-dashboards.php:141
+msgctxt "_MAX_ will be replaced by JS"
+msgid "Show _MENU_ rows"
+msgstr "Prikaži _MENU_ retke"
+
+#: admin/dashboards/class-admin-dashboards.php:140
+msgctxt "_MAX_ will be replaced by JS (See: http://datatables.net/reference/option/language.infoFiltered)"
+msgid "(filtered from _MAX_ total rows)"
+msgstr "(filtrirano iz _MAX_ ukupno redaka)"
+
+#: admin/dashboards/class-admin-dashboards.php:139
+msgid "No rows to show"
+msgstr "Nema redaka za prikaz"
+
+#: admin/dashboards/class-admin-dashboards.php:138
+msgctxt "_START_, _END_ and _TOTAL_ will be replaced by JS (See: http://datatables.net/reference/option/language.info)"
+msgid "Showing _START_ to _END_ of _TOTAL_ rows"
+msgstr "Prikazuje se _START_ do _END_ od _TOTAL_ redova"
+
+#: admin/dashboards/class-admin-dashboards.php:137
+msgid "No data available"
+msgstr "Nema dostupnih podataka"
+
+#: admin/dashboards/class-admin-dashboards.php:136
+msgid ": activate to sort column descending"
+msgstr ": aktiviraj za silazno srotiranje stupca"
+
+#: admin/dashboards/class-admin-dashboards.php:135
+msgid ": activate to sort column ascending"
+msgstr ": aktiviraj za uzlazno srotiranje stupca"
+
+#: admin/class-google-analytics.php:349
+msgid "Data is not up-to-date, there was an error in retrieving the data from Google Analytics. This error could be caused by several issues. If the error persists, please see %sthis page%s."
+msgstr "Podaci nisu ažurirani, dogodila se greška u dohvaćanju podataka iz Google Analytics. Ova greška može biti prouzročena zbog nekoliko problema. Ako se greška nastavi pojavljivati, proučite %sovu stranicu%s."
+
+#: admin/class-google-analytics.php:336
+msgid "It seems the authentication for the plugin has expired, please %sre-authenticate%s with Google Analytics to allow the plugin to fetch data."
+msgstr "Izgleda da je provjera autentičnosti za dodatak isteklo, stoga %sponovite provjeru autentičnosti%s s Google Analytics  kako bi omogućili dodatku da dohvaća podatke."
+
+#: admin/class-google-analytics.php:323
+msgid "Please configure your %sGoogle Analytics settings%s!"
+msgstr "Konfigurirajte %sGoogle Analytics postavke%s!"
+
+#: admin/class-admin.php:554
+msgid "Track your eCommerce data and transactions with this eCommerce extension for Google Analytics."
+msgstr "Pratite svoje eCommerce podatke i transakcije s ovom eCommerce ekstenzijom za Google Analytics."
+
+#: admin/class-admin.php:553
+msgid "eCommerce tracking"
+msgstr "eCommerce praćenje"
+
+#: admin/class-admin.php:548
+msgid "The premium version of Google Analytics by MonsterInsights with more features and support."
+msgstr "Premium inačica Google Analytics by MonsterInsights s više mogućnosti i podrškom."
+
+#: admin/class-admin.php:469
+msgid "Full links"
+msgstr "Cijele poveznice"
+
+#: admin/class-admin.php:468
+msgid "Just the domain"
+msgstr "Samo domena"
+
+#: admin/class-admin.php:457
+msgid "Pageview"
+msgstr "Pregledi stranica"
+
+#: admin/class-admin.php:456
+msgid "Event"
+msgstr "Događaj"
+
+#: admin/class-admin.php:342
+msgid "This will also give you access to the support team at MonsterInsights, who will provide support on the plugin 24/7."
+msgstr "Ovo će vam također omogućiti pristup MonsterInsights timu za podršku, koji pruža podršku za dodatak 24/7."
+
+#: admin/class-admin.php:340
+msgid "If you want to track custom dimensions like page views per author or post type, you should upgrade to the %1$spremium version of Google Analytics by MonsterInsights%2$s."
+msgstr "Ako želite pratiti prilagođene dimenzije kao što su pregledi stranica po autoru, ili tipu objave, trebate nadograditi na %1$spremium inačicu Google Analytics by MonsterInsights%2$s."
+
+#: admin/class-admin.php:325
+msgid "FAQ"
+msgstr "ČPP"
+
+#: admin/class-admin.php:187
+msgid "The UA code needs to follow UA-XXXXXXXX-X format."
+msgstr "UA kod treba pratiti UA-XXXXXXXX-X format."
+
+#: admin/class-admin.php:143
+msgid "There were no changes to save, please try again."
+msgstr "Nema promjena za snimiti, pokušajte ponovno."
+
+#: admin/class-admin.php:136
+msgid "Settings saved."
+msgstr "Opcije spremljene."
+
+#: admin/class-admin.php:93
+msgid "MonsterInsights plugins share some code between them to make your site faster. As a result of that, we need all MonsterInsights plugins to be up to date. We've detected this isn't the case, so please update the MonsterInsights plugins that aren't up to date yet."
+msgstr "MonsterInsights dodaci dijele dijelove koda između sebe kako bi ubrzali vašu web-stranicu, Rezultat toga je da svi MonsterInsights dodaci trebaju biti ažurirani. Detektirali smo da to nije slučaj. stoga ažurirajte MonsterInsights dodatke koji još nisu ažurirani."
+
+#: admin/class-admin-menu.php:239 admin/pages/extensions.php:14
+#: admin/pages/extensions.php:17
+msgid "Extensions"
+msgstr "Ekstenzije"
+
+#: admin/class-admin-menu.php:232 admin/class-admin.php:328
+#: admin/pages/settings.php:10
+msgid "Settings"
+msgstr "Postavke"
+
+#: admin/class-admin-menu.php:226 admin/pages/dashboard.php:14
+msgid "Dashboard"
+msgstr "Nadzorna ploča"
+
+#: admin/class-admin-menu.php:100 admin/pages/settings.php:32
+msgid "General settings"
+msgstr "Osnovne postavke"
+
+#: admin/class-admin-form.php:46 admin/pages/settings.php:176
+msgid "Save changes"
+msgstr "Snimi promjene"

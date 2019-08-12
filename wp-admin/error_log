@@ -1,0 +1,23 @@
+[12-Jul-2019 09:25:34 UTC] PHP Warning:  sprintf(): Too few arguments in /home/caritas/2019.caritas.hr/wp-admin/includes/class-bulk-upgrader-skin.php on line 153
+[12-Jul-2019 09:25:38 UTC] PHP Warning:  sprintf(): Too few arguments in /home/caritas/2019.caritas.hr/wp-admin/includes/class-bulk-upgrader-skin.php on line 153
+[12-Jul-2019 09:25:44 UTC] PHP Warning:  sprintf(): Too few arguments in /home/caritas/2019.caritas.hr/wp-admin/includes/class-bulk-upgrader-skin.php on line 153
+[12-Jul-2019 09:25:46 UTC] PHP Warning:  sprintf(): Too few arguments in /home/caritas/2019.caritas.hr/wp-admin/includes/class-bulk-upgrader-skin.php on line 153
+[12-Jul-2019 09:25:47 UTC] PHP Warning:  sprintf(): Too few arguments in /home/caritas/2019.caritas.hr/wp-admin/includes/class-bulk-upgrader-skin.php on line 153
+[12-Jul-2019 09:25:52 UTC] PHP Warning:  sprintf(): Too few arguments in /home/caritas/2019.caritas.hr/wp-admin/includes/class-bulk-upgrader-skin.php on line 153
+[12-Jul-2019 09:25:56 UTC] PHP Warning:  sprintf(): Too few arguments in /home/caritas/2019.caritas.hr/wp-admin/includes/class-bulk-upgrader-skin.php on line 153
+[24-Jul-2019 12:28:49 UTC] GET
+[24-Jul-2019 12:28:56 UTC] GET
+[24-Jul-2019 12:28:56 UTC] GET
+[24-Jul-2019 12:29:02 UTC] GET
+[24-Jul-2019 12:29:03 UTC] GET
+[24-Jul-2019 12:29:08 UTC] GET
+[24-Jul-2019 12:29:08 UTC] GET
+[24-Jul-2019 12:29:15 UTC] GET
+[24-Jul-2019 12:29:15 UTC] GET
+[24-Jul-2019 12:29:21 UTC] GET
+[24-Jul-2019 12:29:22 UTC] GET
+[24-Jul-2019 12:29:27 UTC] GET
+[24-Jul-2019 12:29:27 UTC] GET
+[29-Jul-2019 10:46:58 UTC] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/caritas/2019.caritas.hr/wp-content/plugins/site-search-360/class-sitesearch360-indexer.php on line 74
+[29-Jul-2019 10:47:45 UTC] PHP Warning:  Use of undefined constant SITESEARCH360_VERSION - assumed 'SITESEARCH360_VERSION' (this will throw an Error in a future version of PHP) in /home/caritas/2019.caritas.hr/wp-content/plugins/site-search-360/class-sitesearch360-tracker.php on line 72
+[29-Jul-2019 13:30:30 UTC] GET

@@ -1,0 +1,23 @@
+<wpml-config>
+  <custom-types>
+    <custom-type translate="0">xt_theme_slider</custom-type>
+    <custom-type translate="0">xt_testimonial</custom-type>
+    <custom-type translate="0">xt_volanteers</custom-type>
+    <custom-type translate="0">xt_project</custom-type>
+    <custom-type translate="0">product</custom-type>
+    <custom-type translate="0">campaign</custom-type>
+    <custom-type translate="0">donation</custom-type>
+    <custom-type translate="0">wpcf7_contact_form</custom-type>
+    <custom-type translate="0">tribe_venue</custom-type>
+    <custom-type translate="0">tribe_organizer</custom-type>
+    <custom-type translate="0">tribe_events</custom-type>
+  </custom-types>
+  <taxonomies>
+    <taxonomy translate="0">product_cat</taxonomy>
+    <taxonomy translate="0">product_tag</taxonomy>
+    <taxonomy translate="0">campaign_category</taxonomy>
+    <taxonomy translate="0">campaign_tag</taxonomy>
+    <taxonomy translate="0">tribe_events_cat</taxonomy>
+    <taxonomy translate="0">xt_project_cat</taxonomy>
+  </taxonomies>
+</wpml-config>

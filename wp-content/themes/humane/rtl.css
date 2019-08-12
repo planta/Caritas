@@ -1,0 +1,307 @@
+/*
+
+Adding support for languages written in a Right To Left (RTL) direction is easy -
+it's just a matter of overwriting all the horizontal positioning attributes
+of your CSS stylesheet in a separate stylesheet file named rtl.css.
+
+https://codex.wordpress.org/Right-to-Left_Language_Support
+
+*/
+
+
+body {
+	direction: rtl;
+	unicode-bidi: embed;
+}
+.ch-pre-header-conditional-pages li:not(:last-child) {
+  margin-right: 0;
+  margin-left: 5px;
+}
+.navbar-default .navbar-nav>li>a>i {
+    margin-left: 0;
+    margin-right: 5px;
+}
+.navbar-nav > li > .dropdown-menu li a:hover {
+    -webkit-transform: translateX(-7px) translateY(0) translateZ(0) rotate(0deg) scale(1);
+    transform: translateX(-7px) translateY(0) translateZ(0) rotate(0deg) scale(1);
+}
+@media (min-width: 768px){
+	.navbar-nav > li > .dropdown-menu .dropdown-menu {
+	    right: 100%;
+	    left: inherit;
+	}
+}
+.ch-campaign-search .ch-campaign-search-field {
+	border-right: 2px solid;
+    border-left: 0;
+}
+.ch-causes .cause-inner-content,
+.ch-campaign-ajax-search-result-area {
+	text-align: right;
+}
+.ch-campaign-search .ch-campaign-search-donation-stats li i {
+    margin-right: 0;
+    margin-left: 7px;
+}
+.ch-causes .progress-val {
+    float: left;
+    margin-left: 0;
+}
+.ch-event .owl-prev .fa, .humane-donation-causes-slider .owl-prev .fa {
+    margin-left: 0;
+    margin-right: 15px;
+}
+.ch-event .owl-next .fa, .humane-donation-causes-slider .owl-next .fa {
+    margin-left: 0;
+    margin-right: 10px;
+}
+.humane-join-us p {
+    padding-right: 0;
+    padding-left: 70px;
+}
+.ch-client-testimonial #quote-carousel .carousel-indicators {
+    left: inherit;
+    right: 35%;
+    margin-right: 0;
+}
+.wpcf7-form, .wpcf7-form * {
+	text-align: right;
+}
+div.wpcf7 .ajax-loader {
+	float: left;
+}
+.widget_campaign_creator_widget .charitable-campaign-creator .avatar {
+    float: right!important;
+    margin: 0 0 .5em 1em!important;
+}
+.widget_campaign_creator_widget .charitable-campaign-creator .creator-bio, .widget_campaign_creator_widget .charitable-campaign-creator .creator-links, .widget_campaign_creator_widget .charitable-campaign-creator .creator-summary {
+    float: right!important;
+}
+.woocommerce ul.product_list_widget li img {
+    float: right;
+    margin-left: 15px;
+    margin-right: 0;
+}
+.copyright .social ul li a {
+	float: right;
+}
+.copyright .social ul li:first-child a {
+	margin-right: 0;
+}
+.xt-breadcrumb-wrapper {
+    text-align: left;
+}
+nav.breadcrumbs ul li:after {
+    margin-left: 0;
+    margin-right: 12px;
+}
+.ch-blog.sticky .blog-content:before {
+	right: inherit;
+	left: 0;
+}
+.comment-navigation .nav-previous, .posts-navigation .nav-previous, .post-navigation .nav-previous {
+    float: right;
+}
+.comment-navigation .nav-next, .posts-navigation .nav-next, .post-navigation .nav-next {
+    float: left;
+    text-align: left;
+}
+.humane-campaign-meta {
+	display: block;
+	overflow: hidden;
+}
+.humane-campaign-meta > div {
+	float: right;
+}
+.humane-campaign-meta > div:first-child {
+    margin-left: 10px;
+    border-left: 1px solid #e6e6e6;
+    padding-left: 12px;
+}
+.humane-campaign-meta > div:last-child {
+    margin-left: 0;
+    border-left: 0;
+    padding-left: 0;
+}
+.woocommerce nav.woocommerce-pagination ul li a.next,
+.woocommerce nav.woocommerce-pagination ul li a.prev {
+	-ms-transform: rotate(180deg);
+    -webkit-transform: rotate(180deg);
+    transform: rotate(180deg);
+}
+.woocommerce #reviews #comments ol.commentlist li .comment-text {
+    margin: 0 82px 0 0!important;
+}
+.post-meta ul li i.fa.fa-commenting {
+    margin-right: 5px;
+}
+footer .widget_nav_menu ul li a:before {
+    right: 0px;
+}
+footer .widget_nav_menu ul li a {
+    padding-right: 15px;
+}
+footer.site-footer h4.footer-widget-title:before {
+    right: 0px;
+}
+footer.site-footer h4.footer-widget-title:after {
+    right: 55px;
+}
+.charity-testimonial .slide-item .info .author-thumb {
+    left: 35px;
+    right: inherit;
+}
+.service-box .inner-box .icon-box {
+    right: 40px;
+}
+.service-box .inner-box .title {
+    padding-right: 70px;
+    padding-left: inherit;
+}
+.wpb-js-composer .vc_tta.vc_tta-accordion .vc_tta-controls-icon-position-left .vc_tta-controls-icon {
+    right: 20px;
+    left: inherit;
+}
+.projects-section .filters ul li:after {
+    left: -15px;
+    right: inherit;
+}
+.default-event-post .inner-box {
+    padding-right: 120px;
+}
+.default-event-post .inner-box .date {
+    left: inherit;
+    right: 0px;
+}
+.default-event-post .post-meta li {
+    float: right;
+}
+.tribe-events-event-meta .column, 
+.tribe-events-event-meta .tribe-events-meta-group {
+    float: right;
+    text-align: right;
+}
+.widget_charitable_donate_widget #charitable-donation-amount-form .donation-amounts .donation-amount.suggested-donation-amount:hover {
+    border-right: 4px solid;
+    padding-right: 15px;
+    border-left: inherit;
+    padding-left: inherit;
+}
+.ch-campaign-search .form-control {
+    border-left: 0px;
+    border-right: 2px solid #fff;
+}
+.news-style-two .post-meta ul {
+    float: right;
+}
+.charity-blog.news-style-two .post-meta ul li i {
+    margin-left: 7px;
+    margin-right: inherit;
+}
+.xt-media.comment-body .reply-link a {
+    left: 0px;
+    right: inherit;
+}
+.humane-media-body {
+    padding-right: 20px;
+}
+.ch-404-additional-info-item .widget_categories ul li a {
+    text-align: left;
+    float: right;
+    padding-left: 7px;
+}
+.woocommerce .ch-single-product-wrapper-inner .quantity {
+    margin: 0 0 0 20px !important;
+}
+.charitable-ambassadors-campaign-creator-toolbar .edit-link {
+    float: left;
+}
+.charity-contact-info {
+    padding-right: 90px;
+    padding-left: inherit;
+}
+.charity-contact-info .icon {
+    right: 0px;
+    left: inherit;
+}
+.sec-title.text-left {
+  border-right: 5px solid #fc2c62;
+  border-left: inherit;
+  padding-right: 20px;
+  padding-left: inherit;
+}
+.sec-title.text-right {
+  border-left: 5px solid #fc2c62;
+  border-right: inherit;
+  padding-left: 20px;
+  padding-right: inherit;
+}
+.site-main > article .inner-box {
+    text-align: right;
+}
+.ch-blog .entry-footer > span.edit-link {
+    float: left;
+}
+.ch-blog .entry-footer > span {
+    margin-left: 18px;
+    margin-right: inherit;
+    display: inline-block;
+}
+.mean-container a.meanmenu-reveal {
+    right: inherit !important;
+    left: 20px!important;
+}
+.news-style-two .post-meta li i {
+    margin-right: inherit;
+    margin-left: 5px;
+}
+.news-style-two .post-meta .avatar {
+    margin-left: 5px;
+    margin-right: inherit;
+}
+.charity-testimonial .owl-nav .owl-prev {
+    left: inherit;
+    right: -10%;
+}
+.charity-testimonial .owl-nav .owl-next {
+    left: -10%;
+    right: inherit;
+}
+@media only screen and (max-width: 1500px) {
+  .charity-testimonial .owl-nav .owl-prev {
+    left: inherit;
+    right: -5%;
+  }
+  .charity-testimonial .owl-nav .owl-next {
+    right: inherit;
+    left: -5%;
+  }
+}
+
+@media only screen and (max-width: 1200px) {
+  .charity-testimonial .owl-nav .owl-prev {
+    left: inherit;
+    right: 42%;
+  }
+  .charity-testimonial .owl-nav .owl-next {
+    right: inherit;
+    left: 42%;
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

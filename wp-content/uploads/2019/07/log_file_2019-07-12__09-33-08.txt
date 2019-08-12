@@ -1,0 +1,79 @@
+
+---Downloaded files---
+The import files for: Demo Import were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://2019.caritas.lin61.host25.com
+Data file = /home/caritas/2019.caritas.hr/wp-content/themes/humane/lib/demo-data/demo-content.xml
+Widget file = /home/caritas/2019.caritas.hr/wp-content/themes/humane/lib/demo-data/widgets.json
+Customizer file = /home/caritas/2019.caritas.hr/wp-content/themes/humane/lib/demo-data/customizer.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Blog Sidebar : 
+
+Search - No Title - Widget already exists
+Donation Stats - Donation Stats - Imported
+Campaigns - Our Campaigns - Imported
+Events List - Upcoming Events - Imported
+Products - Products - Imported
+Text - No Title - Imported
+Volunteer Call to Action - We Need More Volunteers - Imported
+
+Donation Cause Sidebar : 
+
+Campaigns - Emergency Help Needed - Imported
+Donation Stats - Donation Stats - Imported
+Campaign Categories / Tags - Campaign Categories - Imported
+Donors - Our Donors - Imported
+
+Events Sidebar : 
+
+Events List - Upcoming Events - Imported
+
+Footer Widgets : 
+
+Text - CONTACT US - Imported
+Navigation Menu - About Us - Imported
+Campaign Categories / Tags - Categories - Imported
+Volunteer Call to Action - We Need More Volunteers - Imported
+
+WooCommerce Shop : 
+
+Product Search - No Title - Imported
+Filter Products by Price - Filter by price - Imported
+Product Categories - Product categories - Imported
+Products by Rating - Top rated products - Imported
+Recent Viewed Products - Recently Viewed Products - Imported
+
+WooCommerce Product : 
+
+Product Search - No Title - Imported
+Product Categories - Product categories - Imported
+Products - Products - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!

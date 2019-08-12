@@ -1,0 +1,105 @@
+/**
+ * Single donation form
+ */
+
+.single-give_forms .humane-campaign-meta,
+.give-goal-progress .raised {
+	margin-bottom: 20px;
+} 
+.humane-campaign-content .give-progress-bar,
+.give_error, .give_success {
+	margin-bottom: 30px;
+}
+.give-btn:focus {
+	outline: 0;
+}
+.give-donation-levels-wrap .give-donation-level-btn {
+    padding: 1px 12px;
+    font-size: 14px;
+    font-weight: 400;
+}
+#give-recurring-form .form-row input[type=text], #give-recurring-form .form-row input[type=tel], #give-recurring-form .form-row input[type=email], #give-recurring-form .form-row input[type=password], #give-recurring-form .form-row select, #give-recurring-form .form-row textarea, form.give-form .form-row input[type=text], form.give-form .form-row input[type=tel], form.give-form .form-row input[type=email], form.give-form .form-row input[type=password], form.give-form .form-row select, form.give-form .form-row textarea, form[id*=give-form] .form-row input[type=text], form[id*=give-form] .form-row input[type=tel], form[id*=give-form] .form-row input[type=email], form[id*=give-form] .form-row input[type=password], form[id*=give-form] .form-row select, form[id*=give-form] .form-row textarea {
+	border-width: 2px;
+	border-radius: 4px;
+	padding: 10px;
+}
+form[id*=give-form] .give-donation-amount .give-currency-symbol,
+form[id*=give-form] .give-donation-amount #give-amount, form[id*=give-form] .give-donation-amount #give-amount-text,
+form[id*=give-form] #give-final-total-wrap .give-donation-total-label,
+form[id*=give-form] #give-final-total-wrap .give-final-total-amount {
+	border-width: 2px;
+	padding: 7px 15px;
+	height: inherit;
+}
+form[id*=give-form] .give-donation-amount .give-currency-symbol.give-currency-position-before,
+form[id*=give-form] #give-final-total-wrap .give-donation-total-label {
+	border-left-width: 2px;
+	border-top-left-radius: 4px;
+	border-bottom-left-radius: 4px;
+}
+form[id*=give-form] .give-donation-amount #give-amount,
+form[id*=give-form] #give-final-total-wrap .give-final-total-amount {
+	border-top-right-radius: 4px;
+	border-bottom-right-radius: 4px;
+}
+.give-goal-progress .income {
+    font-size: 30px;
+    line-height: 38px;
+    letter-spacing: -1px;
+    color: #333;
+}
+.post-type-archive-give_forms .blog-content .edit-link {
+	margin-top: 0;
+}
+
+
+/**
+ * donation form grid / list / slider 
+ */
+
+.ch-causes .cause-inner-content .give-goal-progress .raised .income, 
+.ch-causes .cause-inner-content .give-goal-progress .raised .goal-text,
+.humane-donation-forms .give-goal-progress .raised .income, 
+.humane-donation-forms .give-goal-progress .raised .goal-text {
+    font-size: inherit;
+    line-height: normal;
+    font-weight: 400;
+}
+
+.ch-causes .cause-inner-content .give-goal-progress .give-progress-bar {
+	height: 10px;
+}
+.ch-causes .cause-inner-content .give-goal-progress .raised {
+	margin-bottom: 15px;
+}
+
+
+/**
+ * Donation form list widget
+ */
+
+.humane-donation-forms .campaign-title {
+	margin-top: 0;
+}
+.humane-donation-forms .campaign-title a {
+	color: inherit;
+}
+.humane-donation-forms .humane-donation-form {
+	margin-bottom: 20px;
+	padding: 0;
+}
+.humane-donation-forms .give-goal-progress,
+.humane-donation-forms .give-goal-progress .raised {
+	margin-bottom: 0;
+}
+
+/**
+ * Donation category widget
+ */
+
+.humane-donation-form-taxonomy a {
+	text-transform: capitalize;
+}
+.widget [id*=give-form].give-display-modal .give-btn {
+    margin-bottom: 0;
+}
